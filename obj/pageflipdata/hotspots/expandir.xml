@@ -1,0 +1,17 @@
+﻿<HotSpotData>
+	<HotSpot
+		PopupTitle="Open a LightBox Images"
+		PopupText="Click to open an image with LightBox" 
+		LightBoxImage="pages/demo_page_i.jpg"
+		LightBoxCaption="This image file is loaded on Page 13"
+		Opacity="20" >
+		<Rectangle>22,250,164,28</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Popup with Image"
+		PopupText="This HotSpot is invisible but interacts with the mouse and opens a Popup Window with Image and texts"
+		PopupImageFile="paginas/zoom/01_portada.png"
+		Opacity="20" >
+		<Rectangle>22,302,190,112</Rectangle>
+	</HotSpot>
+</HotSpotData>

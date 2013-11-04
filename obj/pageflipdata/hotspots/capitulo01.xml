@@ -1,0 +1,42 @@
+﻿<HotSpotData>
+	<HotSpot
+		PopupTitle="La UE te abre las puertas"
+		PopupText="Conoce tu universidad"
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		TargetLabel="Capitulo01-01"
+		Color="0x000000" >
+		<Rectangle>210,215,305,40</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="La UE te abre las puertas"
+		PopupText="Tus beneficios"
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		TargetLabel="Capitulo01-02"
+		Color="0x000000" >
+		<Rectangle>210,265,305,40</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="La UE te abre las puertas"
+		PopupText="Recorre la UE"
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		TargetLabel="Capitulo01-03"
+		Color="0x000000" >
+		<Rectangle>210,310,305,40</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="La UE te abre las puertas"
+		PopupText="Tu plan en la UE"
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		TargetLabel="Capitulo01-04"
+		Color="0x000000" >
+		<Rectangle>210,360,305,40</Rectangle>
+	</HotSpot>
+</HotSpotData>

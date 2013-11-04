@@ -1,0 +1,597 @@
+﻿<PageflipDataSet>
+<Settings
+	
+	CopyrightMessage="77C1F4F548398C7320B4340428387FE9B6BA7B1EAFD2E426165A60EEA202E3161DCDE915B8497C74334F7B1EAFD54F1DA851EC952001CC7CB8C2FB0E3F537276B71FFB313F4272EDEFA26C95A8D8544508C2FB0E6502EB962FDA63112DD9EC1C875098951FD8DC1D53D17CE43F8673DBB6BAFA65BE42D98E06515315B8497F0B37DA6B9E96554F1D2050CB94DCD9531C10519715B02873CAB71FFAFE3EA9F2861DC24A959759FC8DB34F7B1EAFD2DA998374040DB841FC85334FFB863E32F289A55164951FD8DC1D5350CB13984A8F0BB7B9FAFE3F97A946275A620E9ED2E6461DC24A95B901CC8CA0B0F40A8BA572BAB7FDFA323F86A9461A9A6ECE9212E759A551979498D8CB4500B0FC063F427397B6BAFB533F757386B62123E6A0D9EC1C98894C063F42C706154A6FDE9ED2E42B81CB2AE68B48C486D2FB56E480429EB703CF3C0D4D1ACE7C91BF7B9052E96D6A375C48152945C11A03C04C0E5A73785EDA6E93CFABFAB71851A5E99252E85D85C5925083F8F3FC7FE0C6440A884A803DE0BDFA9520D9641DA88944F4304A7386B7DBFAFE3F9773B9B7CAFA65672AE41D2050DCCD804A7386D1DC950F6DD6EB2C80AE7BA184D48499F8B1FA65BD32E2061CBC0CEB4D1ACE7C08C7E9D6A9096D7B367F4F813E22B1E7DA61C30D4E2ADA2CA2AB4A808B477030C75C66D0D941815E2D41E5F3BD09EE5BD6AC5A804042D08B6F504395ECD8DC1D31A707B665059443E37221C24E12C0C6ED8E93CFABFAAE99838C77616A535C1A/6091"
+	
+	CopyrightMessageDisplay = "true"
+	ContextMenu="true"
+	
+	PageWidth="595"
+	PageHeight="842"
+	AutoSize="true"
+	
+	ViewAngle="0"
+	
+	StartPage="1"
+	
+	AlwaysOpened="false"
+	ZeroPage="false"
+	ZeroPageAlwaysVisible="false"
+	
+	CenterSinglePage="true"
+	
+	RightToLeft="false"
+	VerticalMode="false"
+	
+	OffsetX="0"
+	OffsetY="0"
+	
+	HardCover="true"
+	HardPage="false"
+	EmbossedPages="true"
+	EmbossAlpha="100"
+	ShadowsEnabled="true"
+	ShadowsAlpha="100"
+	
+	LargeCover="true"
+	LargeCoverVerticalOversize="0"
+	LargeCoverHorizontalOversize="45"
+	
+	DropShadow="true"
+	DropShadowSize="20"
+	DropShadowOffset="10"
+	DropShadowAlpha="30"
+	
+	PageLoaderBackColor="0x333333"
+	
+	PageScale="true"
+	MinScale="50"
+	MaxScale="150"
+	
+	MinStageWidth="700"
+	MinStageHeight="620"
+	BaseStageWidth="820"
+	BaseStageHeight="640"
+	
+	TransparentBackground="false"
+	BackgroundColor="0x00483A"
+	BackgroundImageFile=""
+
+	ZoomOnPageClick="true"
+	DragZoom="true"
+	
+	FPSControlEnabled="true"
+	MaxFPS="60"
+	ShowFPS="false"
+	
+	FontLibraryFile="pageFlipFonts.swf"
+	xDefaultFont=""
+	
+	ControlBar="true"
+	KeyboardShortcutsEnabled="true"
+	ControlBarScale="100"
+	ControlBarFullScreenScale="150"
+	
+	xControlBarBackgroundColor="0xFFFFFF"
+	xControlBarBackgroundAlpha="50"
+	
+	CustomControlBarIcons="false"
+	xCustomControlBarFile="pageFlipControls.swf"
+	
+	CustomControlBarLayout="false"
+	
+	EnableButtonColoring="true"
+	ButtonColor="0xFFFFFF"
+	ButtonAlpha="100"
+	ButtonOverColor="0xF0B400"
+	ButtonOverAlpha="100"
+	ButtonPressColor="0x666666"
+	ButtonPressAlpha="50"
+	ButtonDisabledColor="0x666666"
+	ButtonDisabledAlpha="15"
+	
+	ButtonToolTip="true"
+	
+	ControlBarLoaderEnabled="true"
+	ButtonFirstLastEnabled="true"			  	
+	ButtonLeftRightEnabled="true"			  	
+	ButtonZoomEnabled="true"			  	
+	ButtonPrintEnabled="false"			  	
+	ButtonAutoFlipEnabled="true"			  	
+	ButtonPDFLinkEnabled="false"
+	PDFlink=""
+	ButtonLanguageEnabled="false"
+	ButtonThumbnailEnabled="true"			  	
+	ButtonMuteEnabled="true"			  	
+	ButtonInfoEnabled="true"			  	
+	ButtonIndexEnabled="true"			  	
+	ButtonFullScreenEnabled="true"			  	
+	ButtonCloseEnabled="false"
+	PageDisplayEnabled="true"
+	PageNameDisplay="false"
+	ControlBarPagerWidth="150"
+	
+	ButtonCustom0Enabled="true"
+	ButtonCustom1Enabled="true"
+	ButtonCustom2Enabled="false"
+	ButtonCustom3Enabled="false"
+	ButtonCustom4Enabled="false"
+	ButtonCustom5Enabled="false"
+	ButtonCustom6Enabled="false"
+	ButtonCustom7Enabled="false"
+		
+	ContentPreviewEnabled="false"
+	ThumbnailsEnabled="true"
+	ThumbnailModeStart="false"
+	ThumbnailWidth="90"
+	ThumbnailHeight="120"
+	ThumbnailDropShadow="true"
+	ThumbnailDropShadowSize="8"
+	ThumbnailDropShadowOffset="2"
+	ThumbnailDropShadowAlpha="30"
+	
+	StartAutoFlip="false"
+	AutoFlipDefaultInterval="2000"
+	AutoFlipLooping="true"
+		  
+	TransparencyEnabled="true"
+	TransparencyActivePage="false"
+	TransparencyAutoLevel="true"
+	TransparencyMaxLevel="16"
+	
+	DragArea="70"
+	AutoFlipArea="70"
+	MousePursuitSpeed="8"
+	ZoomFollowSpeed="10"
+	FlippingDuration="800"
+	
+	PageCache="5"
+	UnloadPages="false"
+	
+	MouseControl="true"
+	DefaultTransition="1"
+	DefaultTransitionDuration="250"
+	FlippingSpreadActivity="true"
+		
+	LayoutOrder="PREVIEW-CONTENT-CONTROLBAR"
+	ControlBarHeight="50"
+	ControlBarOffset="10"
+	ContentPreviewHeight="90"
+	ContentPreviewWidth="130"
+	
+	PopupBackgroundColor="0xFFFFFF"
+	PopupBackgroundOpacity="80"
+	PopupBorderThickness="0"
+	PopupBorderColor="0x000000"
+	PopupRounded="true"
+	PopupRoundedRadius="8"		
+	PopupMargin="8"
+	PopupTitleFont="AUdimat"			
+	xPopupTextFont=""
+	PopupTitleColor="0x333333"
+	PopupTextColor="0x333333"
+	PopupSpace="8"
+	PopupMouseFollowSpeed="5"
+	
+	InfoWindowWidth="250"
+	FloatingWindowColumnWidth="200"
+	FloatingWindowMargin="10"
+	FloatingWindowHorizontalSpace="16"
+	FloatingWindowVerticalSpace="16"
+	FloatingWindowSeparator="true"
+	FloatingWindowSeparatorColor="0x555555"
+	FloatingWindowSeparatorAlpha="100"
+	FloatingWindowSeparatorHeight="1"
+	FloatingWindowSeparatorOffset="8"
+	FloatingWindowBackgroundColor="0x000000"
+	FloatingWindowBackgroundAlpha="80"
+	FloatingWindowBorderThickness="0"
+	FloatingWindowBorderColor="0xFFFFFF"
+	FloatingWindowBorderAlpha="100"
+	FloatingWindowCornerRadius="16"		
+	FloatingWindowColor="0xFFFFFF"
+	FloatingWindowSize="10"
+	FloatingWindowAlign="CENTER"
+	
+	TOCTitleFont="AUdimat"			
+	TOCTitleColor="0xFFFFFF"
+	TOCTitleSize="20"
+	TOCTitleAlign="CENTER"			
+	TOCLinkColor="0xFFFFFF"
+	TOCLinkSize="12"
+	TOCLinkAlign="CENTER"			
+	TOCLinkPageNumberColor="0xFFFFFF"
+	TOCLinkPageNumberSize="20"
+	TOCLinkPageNumberAlign="CENTER"
+	TOCPageNumberFirst="false"
+	TOCPageNumberWidth="32"		
+	TOCDescriptionColor="0xFFFFFF"
+	TOCDescriptionSize="12"
+	TOCDescriptionAlign="CENTER"
+	
+	SoundEnabled="true"
+	StartMute="false"
+	
+	
+	
+	ExternalScript="externalScripts.swf" >
+
+	<Sounds	EffectVolume="50" >
+		<PullOpen		SoundFile="sounds/pullflip2start.mp3" />
+		<PullOpen		SoundFile="sounds/pullflip3start.mp3" />
+		<PullClose		SoundFile="sounds/pullflip0end.mp3" />
+		<PullClose		SoundFile="sounds/pullflip1end.mp3" />
+		<PullClose		SoundFile="sounds/pullflip2end.mp3" />
+		<PullClose		SoundFile="sounds/pullflip3end.mp3" />
+		<PushOpen		SoundFile="sounds/pushflip0start.mp3" />
+		<PushOpen		SoundFile="sounds/pushflip1start.mp3" />
+		<PushOpen		SoundFile="sounds/pushflip2start.mp3" />
+		<PushClose		SoundFile="sounds/pushflip0end.mp3" />
+		<PushClose		SoundFile="sounds/pushflip1end.mp3" />
+		<PushClose		SoundFile="sounds/pushflip2end.mp3" />
+	</Sounds>
+</Settings>
+
+<PageOrder>
+	<!--PageData PageFile="pages/demo_zeropage_front.png" BackgroundColor="0x2a2a2a" />-->
+
+	<PageData	PageFile="paginas/01_portada.swf"
+				ThumbnailFile="paginas/thumbs/01_portada.png"
+				SWFPageFileAsZoom="true"
+				Label="Portada"
+				PageWidth="640"
+				PageHeight="842"
+				
+				/>
+
+	<PageData	PageFile="paginas/02_preliminar.swf"
+				ThumbnailFile="paginas/thumbs/02_preliminar.png"
+				SWFPageFileAsZoom="true"
+				
+				/>
+
+	<PageData	PageFile="paginas/03_preliminar.png"
+				ThumbnailFile="paginas/thumbs/03_preliminar.png"
+				ZoomFiles="paginas/zoom/03_preliminar.png[200%]"
+				Label="Indice"
+				PageWidth="595"
+				PageHeight="842"
+				HotSpotFile="hotspots/indice.xml"
+				HotSpotScale="77"
+				
+				/>
+
+	<PageData	PageFile="paginas/04_Capitulo_01.swf"
+				ThumbnailFile="paginas/thumbs/04_Capitulo_01.png"
+				SWFPageFileAsZoom="true"
+				Label="Capitulo01"
+				HotSpotFile="hotspots/capitulo01.xml"
+				HotSpotScale="77"
+				
+				/>
+
+	<PageData	PageFile="paginas/05_Capitulo_01.swf"
+				ThumbnailFile="paginas/thumbs/05_Capitulo_01.png"
+				SWFPageFileAsZoom="true"
+				HotSpotFile="hotspots/expandir.xml"
+				
+				/>
+
+	<PageData	PageFile="paginas/06_Capitulo_01.swf"
+				ThumbnailFile="paginas/thumbs/06_Capitulo_01.png"
+				SWFPageFileAsZoom="true"
+				Label="Capitulo01-01"
+				
+				/>
+
+	<PageData	PageFile="paginas/07_Capitulo_01.swf"
+				ThumbnailFile="paginas/thumbs/07_Capitulo_01.png"
+				SWFPageFileAsZoom="true"
+				
+				/>
+
+	<PageData	PageFile="paginas/08_Capitulo_01.swf"
+				ThumbnailFile="paginas/thumbs/08_Capitulo_01.png"
+				SWFPageFileAsZoom="true"
+				
+				/>
+
+	<PageData	PageFile="paginas/09_Capitulo_01.swf"
+				ThumbnailFile="paginas/thumbs/09_Capitulo_01.png"
+				SWFPageFileAsZoom="true"
+				
+				/>
+
+	<PageData	PageFile="paginas/10_Capitulo_01.png"
+				ThumbnailFile="paginas/thumbs/10_Capitulo_01.png"
+				ZoomFiles="paginas/zoom/10_Capitulo_01.png[200%]"
+				
+				/>
+
+	<PageData	PageFile="paginas/11_Capitulo_01.png"
+				ThumbnailFile="paginas/thumbs/11_Capitulo_01.png"
+				ZoomFiles="paginas/zoom/11_Capitulo_01.png[200%]"
+				
+				/>
+
+	<PageData	PageFile="paginas/12_Capitulo_01.swf"
+				ThumbnailFile="paginas/thumbs/12_Capitulo_01.png"
+				SWFPageFileAsZoom="true"
+				Label="Capitulo01-02"
+				
+				/>
+
+	<PageData	PageFile="paginas/13_Capitulo_01.png"
+				ThumbnailFile="paginas/thumbs/13_Capitulo_01.png"
+				ZoomFiles="paginas/zoom/13_Capitulo_01.png[200%]"
+				
+				/>
+
+	<PageData	PageFile="paginas/14_Capitulo_01.swf"
+				ThumbnailFile="paginas/thumbs/14_Capitulo_01.png"
+				SWFPageFileAsZoom="true"
+				Label="Capitulo01-03"
+				
+				/>
+
+	<PageData	PageFile="paginas/15_Capitulo_01.swf"
+				ThumbnailFile="paginas/thumbs/15_Capitulo_01.png"
+				SWFPageFileAsZoom="true"
+				
+				/>
+
+	<PageData	PageFile="paginas/preGuardaContraportada.swf"
+				ThumbnailFile="paginas/thumbs/preGuardaContraportada.png"
+				
+				/>
+
+	<PageData	PageFile="paginas/guardaContraportada.swf"
+				ThumbnailFile="paginas/thumbs/guardaContraportada.png"
+				
+				/>
+
+	<PageData	PageFile="paginas/contraportada.swf"
+				ThumbnailFile="paginas/thumbs/contraportada.png"
+				Label="Contraportada"
+				
+				/>
+
+
+	<!--PageData PageFile="pages/demo_zeropage.png" BackgroundColor="0x2a2a2a"  /-->
+</PageOrder>
+<TableOfContents>
+	<Title Name="TABLA DE CONTENIDOS" Separator="false" />
+	<Description Text="Portafolio digital de la Universidad de Ecopetrol" />
+	<Link Name="Portada" TargetLabel="Portada" Skip="false" />
+	<Link Name="Índice" TargetLabel="Indice" Skip="true" />
+	<Link Name="La UE te abre las puertas" TargetLabel="Capitulo01" Skip="true" />
+	<Link Name="La UE te abre las puertas: Conoce tu universidad" TargetLabel="Capitulo01-01" Skip="true" />
+	<Link Name="La UE te abre las puertas: Tus beneficios" TargetLabel="Capitulo01-02" Skip="true" />
+	<Link Name="La UE te abre las puertas: Recorre la UE" TargetLabel="Capitulo01-03" Skip="true" />
+	<Link Name="La UE te abre las puertas: Tu plan en la UE" TargetLabel="Capitulo01-04" Skip="true" />
+</TableOfContents>
+<Info>
+	<Title Name="Portafolio digital de la Universidad de Ecopetrol" Align="center" Separator="false" />
+	<Description Text="Creada por Oliver Castelblanco y Johana Hernández para Overlap 
+	© 2013 Universidad de Ecopetrol" Align="center" Separator="false" />
+	<Description Text="Sonidos compuestos por Mark Beke © 2011" Align="center" />
+</Info>
+<Language>
+	<Lang Name="Español"
+		Loading="CARGANDO"
+		PagerPage="Página #"
+		PagerThumbnailPopup="Página #"
+		PagerThumbnails="Miniaturas"
+		PagerThumbnailPages="Miniatura #"
+		PagerZoomPage="Zoom página #"
+		
+		PrintLeftTooltip="Imprimir página del lado izquierdo"
+		PrintRightTooltip="Imprimir página del lado derecho"
+		ZoomLeftTooltip="Acercar página del lado izquierdo"
+		ZoomRightTooltip="Acercar página del lado derecho"
+		ZoomInTooltip="Acercar"
+		ZoomOutTooltip="Alejar"
+		FirstPageTooltip="Primera página"
+		PreviousPageTooltip="Página anterior"
+		NextPageTooltip="Siguiente página"
+		LastPageTooltip="Última página"
+		
+		AutoFlipTooltip="Paso automático On/Off (A)"
+		MuteTooltip="Silenciar (M)"
+		InfoTooltip="Acerca de (Shift-I)"
+		IndexTooltip="Tabla de contenidos (I)"
+		LanguageTooltip="Español"
+		ThumbnailTooltip="Vista de miniaturas (T)"
+		FullscreenTooltip="Vista pantalla completa On/Off (Shift-F)"
+		CloseTooltip="Quitar aplicación (Shift-Q)"
+		PDFDownloadTooltip="Descargar versión PDF"
+		
+		SearchTooltip="Buscar"
+		HelpTooltip="Ayuda"
+		BookmarksTooltip="Marcadores"
+		
+		Custom0Tooltip="Custom Button 0"
+		Custom1Tooltip="Custom Button 1"
+		Custom2Tooltip="Custom Button 2"
+		Custom3Tooltip="Custom Button 3"
+		Custom4Tooltip="Custom Button 4"
+		Custom5Tooltip="Custom Button 5"
+		Custom6Tooltip="Custom Button 6"
+		Custom7Tooltip="Custom Button 7"
+	/>
+	<Lang Name="English"
+		Loading="LOADING"
+		PagerPage="Page #"
+		PagerThumbnailPopup="Page #"
+		PagerThumbnails="Thumbnails"
+		PagerThumbnailPages="Thumbs #"
+		PagerZoomPage="Zoom Page #"
+		
+		PrintLeftTooltip="Print left side page"
+		PrintRightTooltip="Print right side page"
+		ZoomLeftTooltip="Zoom on left side page"
+		ZoomRightTooltip="Zoom on right side page"
+		ZoomInTooltip="Zoom In"
+		ZoomOutTooltip="Zoom Out"
+		FirstPageTooltip="First page"
+		PreviousPageTooltip="Previous page"
+		NextPageTooltip="Next page"
+		LastPageTooltip="Last page"
+		
+		AutoFlipTooltip="Autoflip On/Off (A)"
+		MuteTooltip="Mute (M)"
+		InfoTooltip="About (Shift-I)"
+		IndexTooltip="Table Of Contents (I)"
+		LanguageTooltip="Magyar"
+		ThumbnailTooltip="Thumbnail View (T)"
+		FullscreenTooltip="Fullscreen On/Off (Shift-F)"
+		CloseTooltip="Quit PageFlip (Shift-Q)"
+		PDFDownloadTooltip="Download PDF version"
+		
+		SearchTooltip="Find"
+		HelpTooltip="Help"
+		BookmarksTooltip="Bookmarks"
+		
+		Custom0Tooltip="Custom Button 0"
+		Custom1Tooltip="Custom Button 1"
+		Custom2Tooltip="Custom Button 2"
+		Custom3Tooltip="Custom Button 3"
+		Custom4Tooltip="Custom Button 4"
+		Custom5Tooltip="Custom Button 5"
+		Custom6Tooltip="Custom Button 6"
+		Custom7Tooltip="Custom Button 7"
+	/>
+	<xLang Name="日本語"
+		Loading="読み込み中"
+		PagerPage="#. ページ"
+		PagerThumbnailPopup="#. ページ"
+		PagerThumbnails="ページ一覧"
+		PagerThumbnailPages="#. ページ"
+		PagerZoomPage="拡大 #. ページ"
+		
+		PrintLeftTooltip="左ページ 印刷"
+		PrintRightTooltip="右ページ 印刷"
+		ZoomLeftTooltip="左ページ拡大"
+		ZoomRightTooltip="右ページ拡大"
+		ZoomInTooltip="拡大"
+		ZoomOutTooltip="拡大"
+		FirstPageTooltip="最初のページ"
+		PreviousPageTooltip="前のページ"
+		NextPageTooltip="次のページ"
+		LastPageTooltip="最後のページ"
+		
+		AutoFlipTooltip="自動再生 On/Off (A)"
+		MuteTooltip="ミュート (M)"
+		InfoTooltip="インフォメーション (Shift-I)"
+		IndexTooltip="目次 (I)"
+		LanguageTooltip="Magyar"
+		ThumbnailTooltip="ページ一覧 (T)"
+		FullscreenTooltip="フルスクリーン On/Off (Shift-F)"
+		CloseTooltip="終了 (Shift-Q)"
+		PDFDownloadTooltip="PDFダウンロード"
+		
+		SearchTooltip="検索"
+		HelpTooltip="ヘルプ"
+		BookmarksTooltip="ブックマーク"
+	/>
+	<Lang Name="Magyar"
+		Loading="BETÖLTÉS"
+		PagerPage="#. oldal"
+		PagerThumbnailPopup="#. oldal"
+		PagerThumbnails="Összes oldal"
+		PagerThumbnailPages="#. oldalak"
+		PagerZoomPage="Nagyítás #. oldal"
+		
+		PrintLeftTooltip="Bal oldal nyomtatása"
+		PrintRightTooltip="Jobb oldal nyomtatása"
+		ZoomLeftTooltip="Bal oldal nagyítása"
+		ZoomRightTooltip="Jobb oldal nagyítása"
+		ZoomInTooltip="Nagyítás"
+		ZoomOutTooltip="Kicsinyítés"
+		FirstPageTooltip="Első oldal"
+		PreviousPageTooltip="Előző oldal"
+		NextPageTooltip="Következő oldal"
+		LastPageTooltip="Utolsó oldal"
+		
+		AutoFlipTooltip="Autómatikus lapozás Ki/Be"
+		MuteTooltip="Hang Ki/Be"
+		InfoTooltip="Impresszum"
+		IndexTooltip="Tartalomjegyzék"
+		LanguageTooltip="Dansk"
+		ThumbnailTooltip="Áttekintés"
+		FullscreenTooltip="Teljes képernyős megjelenítés Ki/Be"
+		CloseTooltip="Bezárás"
+		PDFDownloadTooltip="A magazin PDF változatának letöltése"
+		
+		SearchTooltip="Keresés"
+		HelpTooltip="Segítség"
+		BookmarksTooltip="Könyvjelzők"
+	/>
+	<Lang Name="Dansk"
+		Loading="HENTER"
+		PagerPage="Side #"
+		PagerThumbnailPopup="Side #"
+		PagerThumbnails="Alle sider"
+		PagerThumbnailPages="Miniaturer #"
+		PagerZoomPage="Zoom Side #"
+		
+		PrintLeftTooltip="Udskriv venstre side"
+		PrintRightTooltip="Udskriv højre side"
+		ZoomLeftTooltip="Zoom på venstre side"
+		ZoomRightTooltip="Zoom på højre side"
+		ZoomInTooltip="Zoom Ind"
+		ZoomOutTooltip="Zoom Ud"
+		FirstPageTooltip="Første side"
+		PreviousPageTooltip="Forrige side"
+		NextPageTooltip="Næste side"
+		LastPageTooltip="Sidste side"
+		
+		AutoFlipTooltip="Autoflip Til/Fra (A)"
+		MuteTooltip="Lyd Til/Fra (M)"
+		InfoTooltip="Om (Shift-I)"
+		IndexTooltip="Indholdsfortegnelse (I)"
+		LanguageTooltip="Deutsch"
+		ThumbnailTooltip="Vis Miniaturer (T)"
+		FullscreenTooltip="Fuld skærm Til/Fra (Shift-F)"
+		CloseTooltip="Afslut PageFlip (Shift-Q)"
+		PDFDownloadTooltip="Download PDF version"
+		
+		SearchTooltip="Find"
+		HelpTooltip="Hjælp"
+		BookmarksTooltip="Bogmærker"
+	/>
+	<Lang Name="Deutsch"
+	   Loading="Lädt"
+	   PagerPage="Seite #"
+	   PagerThumbnailPopup="Seite #"
+	   PagerThumbnails="Alle Seiten"
+	   PagerThumbnailPages="Kleinbild #"
+	   PagerZoomPage="Zoom Seite #"
+	  
+	   PrintLeftTooltip="Linke Seite ausdrucken"
+	   PrintRightTooltip="Rechte Seite ausdrucken"
+	   ZoomLeftTooltip="Zoom auf die linke Seite"
+	   ZoomRightTooltip="Zoom auf die rechte Seite"
+	   ZoomInTooltip="Zoom +"
+	   ZoomOutTooltip="Zoom -"
+	   FirstPageTooltip="Erste Seite"
+	   PreviousPageTooltip="Vorherige Seite"
+	   NextPageTooltip="Nächste Seite"
+	   LastPageTooltip="Letzte Seite"
+	  
+	   AutoFlipTooltip="Autoflip An/Aus (A)"
+	   MuteTooltip="Ton An/Aus (M)"
+	   InfoTooltip="Ûber (Shift-I)"
+	   IndexTooltip="Inhaltsverzeichniss (I)"
+	   LanguageTooltip="English"
+	   ThumbnailTooltip="Kleinbilder zeigen (T)"
+	   FullscreenTooltip="Vollbild An/Aus (Shift-F)"
+	   CloseTooltip="PageFlip verlassen (Shift-Q)"
+	   PDFDownloadTooltip="PDF version herunterladen"
+	  
+	   SearchTooltip="Suche"
+	   HelpTooltip="Hilfe"
+	   BookmarksTooltip="Lesezeichen"
+	/>
+</Language>
+</PageflipDataSet>
