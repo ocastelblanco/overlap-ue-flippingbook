@@ -1,0 +1,9 @@
+﻿<HotSpotData>
+	<HotSpot
+		PopupTitle="Título"
+		PopupText="Texto del Hotspot"
+		PopupImageFile="paginas/21_Capitulo_01/cuadro_01.png"
+		Opacity="20" >
+		<Rectangle>22,302,190,112</Rectangle>
+	</HotSpot>
+</HotSpotData>

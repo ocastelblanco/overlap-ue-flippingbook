@@ -1,9 +1,8 @@
 ﻿<HotSpotData>
 	<HotSpot
-		PopupTitle="Título"
-		PopupText="Texto del Hotspot" 
-		LightBoxImage="videos/videoBienvenida.swf"
-		LightBoxCaption="Caption inferior"
+		PopupTitle="La UE le da la bienvenida"
+		PopupText="Haga clic para ver un video de bienvenida de nuestro presidente" 
+		LightBoxGroup="video01"
 		Opacity="20" >
 		<Rectangle>22,250,164,28</Rectangle>
 	</HotSpot>
