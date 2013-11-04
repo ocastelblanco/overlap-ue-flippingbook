@@ -1,0 +1,11 @@
+﻿<HotSpotData>
+	<HotSpot
+		PopupTitle="La UE te abre las puertas"
+		PopupText="Video de bienvenida" 
+		LightBoxGroup="video01"
+		Opacity="0"
+		HoverOpacity="40"
+		Color="0xFFFFFF">
+		<Circle>444,286,39</Circle>
+	</HotSpot>
+</HotSpotData>
