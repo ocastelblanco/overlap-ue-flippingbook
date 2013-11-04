@@ -563,9 +563,9 @@ Lightbox.prototype = {
 		if(elementArray.length > 1){
 			Element.show('numberDisplay');
 			if(elementArray[activeElement][0].endsWith('swf')) { // SWF
-				Element.setInnerHTML( 'numberDisplay', "Movie " + eval(activeElement + 1) + " of " + elementArray.length);
+				Element.setInnerHTML( 'numberDisplay', "Elemento " + eval(activeElement + 1) + " de " + elementArray.length);
 			}else{ // Image
-				Element.setInnerHTML( 'numberDisplay', "Image " + eval(activeElement + 1) + " of " + elementArray.length);			
+				Element.setInnerHTML( 'numberDisplay', "Imagen " + eval(activeElement + 1) + " de " + elementArray.length);			
 			}
 		}
 
