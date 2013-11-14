@@ -58,10 +58,10 @@
 	BackgroundImageFile=""
 
 	ZoomOnPageClick="true"
-	DragZoom="true"
+	DragZoom="false"
 	
 	FPSControlEnabled="true"
-	MaxFPS="60"
+	MaxFPS="24"
 	ShowFPS="false"
 	
 	FontLibraryFile="pageFlipFonts.swf"
@@ -131,7 +131,7 @@
 	ThumbnailDropShadowAlpha="30"
 	
 	StartAutoFlip="false"
-	AutoFlipDefaultInterval="2000"
+	AutoFlipDefaultInterval="10000"
 	AutoFlipLooping="true"
 		  
 	TransparencyEnabled="true"
@@ -145,8 +145,8 @@
 	ZoomFollowSpeed="10"
 	FlippingDuration="800"
 	
-	PageCache="5"
-	UnloadPages="false"
+	PageCache="2"
+	UnloadPages="true"
 	
 	MouseControl="true"
 	DefaultTransition="1"
@@ -217,18 +217,11 @@
 	ExternalScript="externalScripts.swf" >
 
 	<Sounds	EffectVolume="50" >
-		<PullOpen		SoundFile="sounds/pullflip2start.mp3" />
-		<PullOpen		SoundFile="sounds/pullflip3start.mp3" />
-		<PullClose		SoundFile="sounds/pullflip0end.mp3" />
-		<PullClose		SoundFile="sounds/pullflip1end.mp3" />
+		<HardPageClose	SoundFile="sounds/pushflip0end.mp3" />
+		<PullOpen		SoundFile="sounds/pullflip0start.mp3" />
 		<PullClose		SoundFile="sounds/pullflip2end.mp3" />
-		<PullClose		SoundFile="sounds/pullflip3end.mp3" />
 		<PushOpen		SoundFile="sounds/pushflip0start.mp3" />
-		<PushOpen		SoundFile="sounds/pushflip1start.mp3" />
-		<PushOpen		SoundFile="sounds/pushflip2start.mp3" />
-		<PushClose		SoundFile="sounds/pushflip0end.mp3" />
-		<PushClose		SoundFile="sounds/pushflip1end.mp3" />
-		<PushClose		SoundFile="sounds/pushflip2end.mp3" />
+		<PushClose		SoundFile="sounds/pullflip0start.mp3" />
 	</Sounds>
 </Settings>
 
@@ -244,17 +237,17 @@
 				
 				/>
 
-	<PageData	PageFile="paginas/02_preliminar.swf"
+	<PageData	PageFile="paginas/02_Capitulo_00.png"
 				ThumbnailFile="paginas/thumbs/02_preliminar.png"
-				SWFPageFileAsZoom="true"
+				ZoomFiles="paginas/zoom/02_Capitulo_00.jpg"
 				PageWidth="640"
 				PageHeight="842"
 				
 				/>
 
-	<PageData	PageFile="paginas/03_preliminar.swf"
+	<PageData	PageFile="paginas/03_Capitulo_01.jpg"
 				ThumbnailFile="paginas/thumbs/03_preliminar.png"
-				SWFPageFileAsZoom="true"
+				ZoomFiles="paginas/zoom/03_Capitulo_01.jpg"
 				Label="Indice"
 				PageWidth="595"
 				PageHeight="842"
@@ -263,9 +256,9 @@
 				
 				/>
 
-	<PageData	PageFile="paginas/04_Capitulo_01.swf"
+	<PageData	PageFile="paginas/04_Capitulo_01.jpg"
 				ThumbnailFile="paginas/thumbs/04_Capitulo_01.png"
-				SWFPageFileAsZoom="true"
+				ZoomFiles="paginas/zoom/04_Capitulo_01.jpg"
 				Label="Capitulo01"
 				PageWidth="595"
 				PageHeight="842"
@@ -274,207 +267,217 @@
 				
 				/>
 
-	<PageData	PageFile="paginas/05_Capitulo_01.swf"
+	<PageData	PageFile="paginas/05_Capitulo_01.jpg"
 				ThumbnailFile="paginas/thumbs/05_Capitulo_01.png"
-				SWFPageFileAsZoom="true"
+				ZoomFiles="paginas/zoom/05_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
 				HotSpotFile="hotspots/05_Capitulo_01.xml"
 				
 				/>
 
-	<PageData	PageFile="paginas/06_Capitulo_01.swf"
+	<PageData	PageFile="paginas/06_Capitulo_01.jpg"
 				ThumbnailFile="paginas/thumbs/06_Capitulo_01.png"
-				SWFPageFileAsZoom="true"
+				ZoomFiles="paginas/zoom/06_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
 				Label="Capitulo01-01"
 				
 				/>
 
-	<PageData	PageFile="paginas/07_Capitulo_01.swf"
+	<PageData	PageFile="paginas/07_Capitulo_01.jpg"
 				ThumbnailFile="paginas/thumbs/07_Capitulo_01.png"
-				SWFPageFileAsZoom="true"
+				ZoomFiles="paginas/zoom/07_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
 				
 				/>
+	<!-- Spread -->
 
-	<PageData	PageFile="paginas/08_Capitulo_01.swf"
-				ThumbnailFile="paginas/thumbs/08_Capitulo_01.png"
-				SWFPageFileAsZoom="true"
-				PageWidth="595"
+	<PageData	PageFile="paginas/08-09_Capitulo_01.swf"
+				ThumbnailFile="paginas/thumbs/08-09_Capitulo_01.png"
+				ZoomFiles="paginas/zoom/08-09_Capitulo_01.jpg"
+				Spread="true"
+				PageWidth="1190"
 				PageHeight="842"
 				
 				/>
 
-	<PageData	PageFile="paginas/09_Capitulo_01.swf"
-				ThumbnailFile="paginas/thumbs/09_Capitulo_01.png"
-				SWFPageFileAsZoom="true"
-				PageWidth="595"
-				PageHeight="842"
-				
-				/>
-
-	<PageData	PageFile="paginas/10_Capitulo_01.swf"
+	<PageData	PageFile="paginas/10_Capitulo_01.jpg"
 				ThumbnailFile="paginas/thumbs/10_Capitulo_01.png"
-				SWFPageFileAsZoom="true"
+				ZoomFiles="paginas/zoom/10_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
 				
 				/>
 
-	<PageData	PageFile="paginas/11_Capitulo_01.swf"
+	<PageData	PageFile="paginas/11_Capitulo_01.jpg"
 				ThumbnailFile="paginas/thumbs/11_Capitulo_01.png"
-				SWFPageFileAsZoom="true"
+				ZoomFiles="paginas/zoom/11_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
 				
 				/>
 
-	<PageData	PageFile="paginas/12_Capitulo_01.swf"
+	<PageData	PageFile="paginas/12_Capitulo_01.jpg"
 				ThumbnailFile="paginas/thumbs/12_Capitulo_01.png"
-				SWFPageFileAsZoom="true"
+				ZoomFiles="paginas/zoom/12_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
 				Label="Capitulo01-02"
 				
 				/>
 
-	<PageData	PageFile="paginas/13_Capitulo_01.swf"
+	<PageData	PageFile="paginas/13_Capitulo_01.jpg"
 				ThumbnailFile="paginas/thumbs/13_Capitulo_01.png"
-				SWFPageFileAsZoom="true"
+				ZoomFiles="paginas/zoom/13_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
 				
 				/>
 
-	<PageData	PageFile="paginas/14_Capitulo_01.swf"
+	<PageData	PageFile="paginas/14_Capitulo_01.jpg"
 				ThumbnailFile="paginas/thumbs/14_Capitulo_01.png"
-				SWFPageFileAsZoom="true"
+				ZoomFiles="paginas/zoom/14_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
 				Label="Capitulo01-03"
 				
 				/>
 
-	<PageData	PageFile="paginas/15_Capitulo_01.swf"
+	<PageData	PageFile="paginas/15_Capitulo_01.jpg"
 				ThumbnailFile="paginas/thumbs/15_Capitulo_01.png"
-				SWFPageFileAsZoom="true"
+				ZoomFiles="paginas/zoom/15_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
 				
 				/>
-	<PageData	PageFile="paginas/16_Capitulo_01.swf"
+				
+	<PageData	PageFile="paginas/16_Capitulo_01.jpg"
 				ThumbnailFile="paginas/thumbs/16_Capitulo_01.png"
-				SWFPageFileAsZoom="true"
+				ZoomFiles="paginas/zoom/16_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
 				
 				/>
-	<PageData	PageFile="paginas/17_Capitulo_01.swf"
+				
+	<PageData	PageFile="paginas/17_Capitulo_01.jpg"
 				ThumbnailFile="paginas/thumbs/17_Capitulo_01.png"
-				SWFPageFileAsZoom="true"
+				ZoomFiles="paginas/zoom/17_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
 				Label="Capitulo01-04"
 				
 				/>
-	<PageData	PageFile="paginas/18_Capitulo_01.swf"
+				
+	<PageData	PageFile="paginas/18_Capitulo_01.jpg"
 				ThumbnailFile="paginas/thumbs/18_Capitulo_01.png"
-				SWFPageFileAsZoom="true"
+				ZoomFiles="paginas/zoom/18_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
 				
 				/>
-	<PageData	PageFile="paginas/19_Capitulo_01.swf"
+				
+	<PageData	PageFile="paginas/19_Capitulo_01.jpg"
 				ThumbnailFile="paginas/thumbs/19_Capitulo_01.png"
-				SWFPageFileAsZoom="true"
+				ZoomFiles="paginas/zoom/19_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
 				
 				/>
-	<PageData	PageFile="paginas/20_Capitulo_01.swf"
+				
+	<PageData	PageFile="paginas/20_Capitulo_01.jpg"
 				ThumbnailFile="paginas/thumbs/20_Capitulo_01.png"
-				SWFPageFileAsZoom="true"
+				ZoomFiles="paginas/zoom/20_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
 				
 				/>
-	<PageData	PageFile="paginas/21_Capitulo_01.swf"
+				
+	<PageData	PageFile="paginas/21_Capitulo_01.jpg"
 				ThumbnailFile="paginas/thumbs/21_Capitulo_01.png"
-				SWFPageFileAsZoom="true"
+				ZoomFiles="paginas/zoom/21_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
 				HotSpotFile="hotspots/21_Capitulo_01.xml"
 				
 				/>
-	<PageData	PageFile="paginas/22_Capitulo_01.swf"
+				
+	<PageData	PageFile="paginas/22_Capitulo_01.jpg"
 				ThumbnailFile="paginas/thumbs/22_Capitulo_01.png"
-				SWFPageFileAsZoom="true"
+				ZoomFiles="paginas/zoom/22_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
 				
 				/>
-	<PageData	PageFile="paginas/23_Capitulo_01.swf"
+				
+	<PageData	PageFile="paginas/23_Capitulo_01.jpg"
 				ThumbnailFile="paginas/thumbs/23_Capitulo_01.png"
-				SWFPageFileAsZoom="true"
+				ZoomFiles="paginas/zoom/23_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
 				
 				/>
-	<PageData	PageFile="paginas/24_Capitulo_01.swf"
+				
+	<PageData	PageFile="paginas/24_Capitulo_01.jpg"
 				ThumbnailFile="paginas/thumbs/24_Capitulo_01.png"
-				SWFPageFileAsZoom="true"
+				ZoomFiles="paginas/zoom/24_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
 				
 				/>
-	<PageData	PageFile="paginas/25_Capitulo_01.swf"
+				
+	<PageData	PageFile="paginas/25_Capitulo_01.jpg"
 				ThumbnailFile="paginas/thumbs/25_Capitulo_01.png"
-				SWFPageFileAsZoom="true"
+				ZoomFiles="paginas/zoom/25_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
 				
 				/>
-	<PageData	PageFile="paginas/26_Capitulo_01.swf"
+				
+	<PageData	PageFile="paginas/26_Capitulo_01.jpg"
 				ThumbnailFile="paginas/thumbs/26_Capitulo_01.png"
-				SWFPageFileAsZoom="true"
+				ZoomFiles="paginas/zoom/26_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
 				
 				/>
-	<PageData	PageFile="paginas/27_Capitulo_01.swf"
+				
+	<PageData	PageFile="paginas/27_Capitulo_01.jpg"
 				ThumbnailFile="paginas/thumbs/27_Capitulo_01.png"
-				SWFPageFileAsZoom="true"
+				ZoomFiles="paginas/zoom/27_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
 				
 				/>
-	<PageData	PageFile="paginas/28_Capitulo_01.swf"
+				
+	<PageData	PageFile="paginas/28_Capitulo_01.jpg"
 				ThumbnailFile="paginas/thumbs/28_Capitulo_01.png"
-				SWFPageFileAsZoom="true"
+				ZoomFiles="paginas/zoom/28_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
 				
 				/>
-	<PageData	PageFile="paginas/29_Capitulo_01.swf"
+				
+	<PageData	PageFile="paginas/29_Capitulo_01.jpg"
 				ThumbnailFile="paginas/thumbs/29_Capitulo_01.png"
-				SWFPageFileAsZoom="true"
+				ZoomFiles="paginas/zoom/29_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
 				
 				/>
-	<PageData	PageFile="paginas/30_Capitulo_01.swf"
+				
+	<PageData	PageFile="paginas/30_Capitulo_01.jpg"
 				ThumbnailFile="paginas/thumbs/30_Capitulo_01.png"
-				SWFPageFileAsZoom="true"
+				ZoomFiles="paginas/zoom/30_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
 				
 				/>
-	<PageData	PageFile="paginas/31_Capitulo_01.swf"
+				
+	<PageData	PageFile="paginas/31_Capitulo_01.jpg"
 				ThumbnailFile="paginas/thumbs/31_Capitulo_01.png"
-				SWFPageFileAsZoom="true"
+				ZoomFiles="paginas/zoom/31_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
 				
@@ -482,16 +485,22 @@
 
 	<PageData	PageFile="paginas/preGuardaContraportada.swf"
 				ThumbnailFile="paginas/thumbs/preGuardaContraportada.png"
+				PageWidth="595"
+				PageHeight="842"
 				
 				/>
 
 	<PageData	PageFile="paginas/guardaContraportada.swf"
 				ThumbnailFile="paginas/thumbs/guardaContraportada.png"
+				PageWidth="640"
+				PageHeight="842"
 				
 				/>
 
-	<PageData	PageFile="paginas/contraportada.swf"
+	<PageData	PageFile="paginas/contraportada.jpg"
 				ThumbnailFile="paginas/thumbs/contraportada.png"
+				PageWidth="595"
+				PageHeight="842"
 				Label="Contraportada"
 				
 				/>
