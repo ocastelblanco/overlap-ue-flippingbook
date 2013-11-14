@@ -1,4 +1,5 @@
 ﻿<HotSpotData>
+	<!-- Hotspots del Capítulo 01 -->
 	<HotSpot
 		PopupTitle="La UE te abre las puertas"
 		PopupText="La UE te abre las puertas"
@@ -7,7 +8,7 @@
 		HoverOpacity="40"
 		TargetLabel="Capitulo01"
 		Color="0x000000" >
-		<Rectangle>20,140,250,160</Rectangle>
+		<Rectangle>20,115,175,160</Rectangle>
 	</HotSpot>
 	<HotSpot
 		PopupTitle="La UE te abre las puertas"
@@ -17,7 +18,7 @@
 		HoverOpacity="40"
 		TargetLabel="Capitulo01-01"
 		Color="0x000000" >
-		<Rectangle>30,355,220,25</Rectangle>
+		<Rectangle>30,275,160,17</Rectangle>
 	</HotSpot>
 	<HotSpot
 		PopupTitle="La UE te abre las puertas"
@@ -27,7 +28,7 @@
 		HoverOpacity="40"
 		TargetLabel="Capitulo01-02"
 		Color="0x000000" >
-		<Rectangle>30,380,220,25</Rectangle>
+		<Rectangle>30,292,160,17</Rectangle>
 	</HotSpot>
 	<HotSpot
 		PopupTitle="La UE te abre las puertas"
@@ -37,7 +38,7 @@
 		HoverOpacity="40"
 		TargetLabel="Capitulo01-03"
 		Color="0x000000" >
-		<Rectangle>30,405,220,25</Rectangle>
+		<Rectangle>30,309,160,17</Rectangle>
 	</HotSpot>
 	<HotSpot
 		PopupTitle="La UE te abre las puertas"
@@ -47,6 +48,37 @@
 		HoverOpacity="40"
 		TargetLabel="Capitulo01-04"
 		Color="0x000000" >
-		<Rectangle>30,430,220,25</Rectangle>
+		<Rectangle>30,329,160,17</Rectangle>
+	</HotSpot>
+	<!-- Hotspots del Capítulo 03 -->
+	<HotSpot
+		PopupTitle="Escuela Upstream"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		TargetLabel="Capitulo03"
+		Color="0x000000" >
+		<Rectangle>20,570,175,160</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Escuela Upstream"
+		PopupText="Descúbrenos: exploramos y producimos conocimiento"
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		TargetLabel="Capitulo03-01"
+		Color="0x000000" >
+		<Rectangle>30,735,160,30</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Escuela Upstream"
+		PopupText="Conoce tus oportunidades"
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		TargetLabel="Capitulo03-02"
+		Color="0x000000" >
+		<Rectangle>30,765,160,17</Rectangle>
 	</HotSpot>
 </HotSpotData>

@@ -230,7 +230,7 @@
 
 	<PageData	PageFile="paginas/01_portada.swf"
 				ThumbnailFile="paginas/thumbs/01_portada.png"
-				SWFPageFileAsZoom="true"
+				ZoomFiles="paginas/zoom/01_Capitulo_01.jpg"
 				Label="Portada"
 				PageWidth="640"
 				PageHeight="842"
@@ -239,11 +239,14 @@
 
 	<PageData	PageFile="paginas/02_Capitulo_00.png"
 				ThumbnailFile="paginas/thumbs/02_preliminar.png"
-				ZoomFiles="paginas/zoom/02_Capitulo_00.jpg"
+				ZoomFiles="paginas/zoom/02_Capitulo_01.jpg"
 				PageWidth="640"
 				PageHeight="842"
 				
 				/>
+				
+				
+<!-- Índice general del libro -->
 
 	<PageData	PageFile="paginas/03_Capitulo_01.jpg"
 				ThumbnailFile="paginas/thumbs/03_preliminar.png"
@@ -252,10 +255,11 @@
 				PageWidth="595"
 				PageHeight="842"
 				HotSpotFile="hotspots/03_preliminar.xml"
-				HotSpotScale="77"
 				
 				/>
-
+				
+<!-- Capítulo 01 -->
+				
 	<PageData	PageFile="paginas/04_Capitulo_01.jpg"
 				ThumbnailFile="paginas/thumbs/04_Capitulo_01.png"
 				ZoomFiles="paginas/zoom/04_Capitulo_01.jpg"
@@ -324,7 +328,6 @@
 				ZoomFiles="paginas/zoom/12_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
-				Label="Capitulo01-02"
 				
 				/>
 
@@ -341,7 +344,7 @@
 				ZoomFiles="paginas/zoom/14_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
-				Label="Capitulo01-03"
+				Label="Capitulo01-02"
 				
 				/>
 
@@ -358,6 +361,7 @@
 				ZoomFiles="paginas/zoom/16_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				Label="Capitulo01-03"
 				
 				/>
 				
@@ -366,7 +370,6 @@
 				ZoomFiles="paginas/zoom/17_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
-				Label="Capitulo01-04"
 				
 				/>
 				
@@ -391,6 +394,7 @@
 				ZoomFiles="paginas/zoom/20_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				Label="Capitulo01-04"
 				
 				/>
 				
@@ -399,7 +403,6 @@
 				ZoomFiles="paginas/zoom/21_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
-				HotSpotFile="hotspots/21_Capitulo_01.xml"
 				
 				/>
 				
@@ -432,6 +435,7 @@
 				ZoomFiles="paginas/zoom/25_Capitulo_01.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/21_Capitulo_01.xml"
 				
 				/>
 				
@@ -443,45 +447,338 @@
 				
 				/>
 				
-	<PageData	PageFile="paginas/27_Capitulo_01.jpg"
-				ThumbnailFile="paginas/thumbs/27_Capitulo_01.png"
-				ZoomFiles="paginas/zoom/27_Capitulo_01.jpg"
+<!-- Fin del Capítulo 01 -->
+
+	<!-- Temporal mientras se acomodan las demás seccione o capítulos
+	<PageData	PageFile="paginas/preGuardaContraportada.swf"
+				ThumbnailFile="paginas/thumbs/preGuardaContraportada.png"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+ -->
+
+<!-- Capítulo 03 -->
+
+
+<!-- 		Temporal		
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_01.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_01.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_01.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				Label="Capitulo03"
+				
+				/>
+-->
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_02.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_02.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_02.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				Label="Capitulo03"
+				
+				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_03.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_03.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_03.jpg"
 				PageWidth="595"
 				PageHeight="842"
 				
 				/>
 				
-	<PageData	PageFile="paginas/28_Capitulo_01.jpg"
-				ThumbnailFile="paginas/thumbs/28_Capitulo_01.png"
-				ZoomFiles="paginas/zoom/28_Capitulo_01.jpg"
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_04.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_04.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_04.jpg"
 				PageWidth="595"
 				PageHeight="842"
 				
 				/>
 				
-	<PageData	PageFile="paginas/29_Capitulo_01.jpg"
-				ThumbnailFile="paginas/thumbs/29_Capitulo_01.png"
-				ZoomFiles="paginas/zoom/29_Capitulo_01.jpg"
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_05.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_05.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_05.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				Label="Capitulo03-01"
+				
+				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_06.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_06.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_06.jpg"
 				PageWidth="595"
 				PageHeight="842"
 				
 				/>
 				
-	<PageData	PageFile="paginas/30_Capitulo_01.jpg"
-				ThumbnailFile="paginas/thumbs/30_Capitulo_01.png"
-				ZoomFiles="paginas/zoom/30_Capitulo_01.jpg"
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_07.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_07.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_07.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				Label="Capitulo03-02"
+				
+				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_08.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_08.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_08.jpg"
 				PageWidth="595"
 				PageHeight="842"
 				
 				/>
 				
-	<PageData	PageFile="paginas/31_Capitulo_01.jpg"
-				ThumbnailFile="paginas/thumbs/31_Capitulo_01.png"
-				ZoomFiles="paginas/zoom/31_Capitulo_01.jpg"
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_09.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_09.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_09.jpg"
 				PageWidth="595"
 				PageHeight="842"
 				
 				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_10.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_10.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_10.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_11.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_11.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_11.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_12.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_12.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_12.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_13.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_13.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_13.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_14.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_14.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_14.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_15.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_15.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_15.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_16.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_16.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_16.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_17.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_17.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_17.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_18.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_18.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_18.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_19.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_19.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_19.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_20.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_20.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_20.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_21.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_21.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_21.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_22.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_22.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_22.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_23.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_23.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_23.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_24.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_24.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_24.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_25.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_25.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_25.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_26.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_26.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_26.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_27.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_27.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_27.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_28.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_28.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_28.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_29.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_29.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_29.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_30.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_30.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_30.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_31.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_31.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_31.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_32.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_32.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_32.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_33.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_33.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_33.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_34.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_34.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_34.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_35.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_35.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_35.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_36.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_36.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_36.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_37.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_37.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_37.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+	<PageData	PageFile="paginas/C_03_EscuelaUpstream_38.jpg"
+				ThumbnailFile="paginas/thumbs/C_03_EscuelaUpstream_38.png"
+				ZoomFiles="paginas/zoom/C_03_EscuelaUpstream_38.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+<!-- Fin del Capítulo 03 -->
+				
+				
+				
+				
+				
+				
+<!-- Si las páginas son impares o pares se activa o desactiva esta PageData
+-->
 
 	<PageData	PageFile="paginas/preGuardaContraportada.swf"
 				ThumbnailFile="paginas/thumbs/preGuardaContraportada.png"
@@ -489,7 +786,6 @@
 				PageHeight="842"
 				
 				/>
-
 	<PageData	PageFile="paginas/guardaContraportada.swf"
 				ThumbnailFile="paginas/thumbs/guardaContraportada.png"
 				PageWidth="640"
@@ -518,6 +814,9 @@
 	<Link Name="La UE te abre las puertas: Tus beneficios" TargetLabel="Capitulo01-02" Skip="true" />
 	<Link Name="La UE te abre las puertas: Recorre la UE" TargetLabel="Capitulo01-03" Skip="true" />
 	<Link Name="La UE te abre las puertas: Tu plan en la UE" TargetLabel="Capitulo01-04" Skip="true" />
+	<Link Name="Escuela Upstream" TargetLabel="Capitulo03" Skip="true" />
+	<Link Name="Escuela Upstream: Descúbrenos: exploramos y producimos conocimiento" TargetLabel="Capitulo03-01" Skip="true" />
+	<Link Name="Escuela Upstream: Conoce tus oportunidades" TargetLabel="Capitulo03-02" Skip="true" />
 </TableOfContents>
 <Info>
 	<Title Name="Portafolio digital de la Universidad de Ecopetrol" Align="center" Separator="false" />
