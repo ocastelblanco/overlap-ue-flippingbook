@@ -7,6 +7,7 @@
 		Opacity="0"
 		HoverOpacity="40"
 		TargetLabel="Capitulo01"
+		Skip="true"
 		Color="0x000000" >
 		<Rectangle>20,115,175,160</Rectangle>
 	</HotSpot>
@@ -17,6 +18,7 @@
 		Opacity="0"
 		HoverOpacity="40"
 		TargetLabel="Capitulo01-01"
+		Skip="true"
 		Color="0x000000" >
 		<Rectangle>30,275,160,17</Rectangle>
 	</HotSpot>
@@ -27,6 +29,7 @@
 		Opacity="0"
 		HoverOpacity="40"
 		TargetLabel="Capitulo01-02"
+		Skip="true"
 		Color="0x000000" >
 		<Rectangle>30,292,160,17</Rectangle>
 	</HotSpot>
@@ -37,6 +40,7 @@
 		Opacity="0"
 		HoverOpacity="40"
 		TargetLabel="Capitulo01-03"
+		Skip="true"
 		Color="0x000000" >
 		<Rectangle>30,309,160,17</Rectangle>
 	</HotSpot>
@@ -47,6 +51,7 @@
 		Opacity="0"
 		HoverOpacity="40"
 		TargetLabel="Capitulo01-04"
+		Skip="true"
 		Color="0x000000" >
 		<Rectangle>30,329,160,17</Rectangle>
 	</HotSpot>
@@ -58,6 +63,7 @@
 		Opacity="0"
 		HoverOpacity="40"
 		TargetLabel="Capitulo03"
+		Skip="true"
 		Color="0x000000" >
 		<Rectangle>20,570,175,160</Rectangle>
 	</HotSpot>
@@ -68,6 +74,7 @@
 		Opacity="0"
 		HoverOpacity="40"
 		TargetLabel="Capitulo03-01"
+		Skip="true"
 		Color="0x000000" >
 		<Rectangle>30,735,160,30</Rectangle>
 	</HotSpot>
@@ -78,7 +85,110 @@
 		Opacity="0"
 		HoverOpacity="40"
 		TargetLabel="Capitulo03-02"
+		Skip="true"
 		Color="0x000000" >
 		<Rectangle>30,765,160,17</Rectangle>
+	</HotSpot>
+	<!-- Hotspots del Capítulo 04 -->
+	<HotSpot
+		PopupTitle="Escuela de Logística y Transporte"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		TargetLabel="Capitulo04"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>210,90,175,160</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Escuela de Logística y Transporte"
+		PopupText="Descúbrenos: transportamos conocimiento"
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		TargetLabel="Capitulo04-01"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>220,250,160,30</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Escuela de Logística y Transporte"
+		PopupText="Conoce tus oportunidades"
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		TargetLabel="Capitulo04-02"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>220,280,160,17</Rectangle>
+	</HotSpot>
+	<!-- Hotspots del Capítulo 07 -->
+	<HotSpot
+		PopupTitle="Escuela de Innovación y Tecnología"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		TargetLabel="Capitulo07"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>400,20,175,160</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Escuela de Innovación y Tecnología"
+		PopupText="Descúbrenos: innovamos y creamos conocimiento"
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		TargetLabel="Capitulo07-01"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>410,180,160,30</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Escuela de Innovación y Tecnología"
+		PopupText="Conoce tus oportunidades"
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		TargetLabel="Capitulo07-02"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>410,210,160,17</Rectangle>
+	</HotSpot>
+	<!-- Hotspots del Capítulo 08 -->
+	<HotSpot
+		PopupTitle="Escuela de Liderazgo"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		TargetLabel="Capitulo08"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>400,245,175,160</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Escuela de Liderazgo"
+		PopupText="Descúbrenos: lideramos el saber"
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		TargetLabel="Capitulo08-01"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>410,405,160,30</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Escuela de Liderazgo"
+		PopupText="Conoce tus oportunidades"
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		TargetLabel="Capitulo08-02"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>410,435,160,17</Rectangle>
 	</HotSpot>
 </HotSpotData>

@@ -771,9 +771,163 @@
 				/>
 				
 <!-- Fin del Capítulo 03 -->
+
+<!-- Capítulo 04 -->				
+
+	<PageData	PageFile="paginas/C_04_EscuelaLogistica_01.jpg"
+				ThumbnailFile="paginas/thumbs/C_04_EscuelaLogistica_01.png"
+				ZoomFiles="paginas/zoom/C_04_EscuelaLogistica_01.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				Label="Capitulo04"
 				
+				/>
+	<PageData	PageFile="paginas/C_04_EscuelaLogistica_02.jpg"
+				ThumbnailFile="paginas/thumbs/C_04_EscuelaLogistica_02.png"
+				ZoomFiles="paginas/zoom/C_04_EscuelaLogistica_02.jpg"
+				PageWidth="595"
+				PageHeight="842"
 				
+				/>
+	<PageData	PageFile="paginas/C_04_EscuelaLogistica_03.jpg"
+				ThumbnailFile="paginas/thumbs/C_04_EscuelaLogistica_03.png"
+				ZoomFiles="paginas/zoom/C_04_EscuelaLogistica_03.jpg"
+				PageWidth="595"
+				PageHeight="842"
 				
+				/>
+	<PageData	PageFile="paginas/C_04_EscuelaLogistica_04.jpg"
+				ThumbnailFile="paginas/thumbs/C_04_EscuelaLogistica_04.png"
+				ZoomFiles="paginas/zoom/C_04_EscuelaLogistica_04.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+	<PageData	PageFile="paginas/C_04_EscuelaLogistica_05.jpg"
+				ThumbnailFile="paginas/thumbs/C_04_EscuelaLogistica_05.png"
+				ZoomFiles="paginas/zoom/C_04_EscuelaLogistica_05.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				Label="Capitulo04-01"
+				
+				/>
+	<PageData	PageFile="paginas/C_04_EscuelaLogistica_06.jpg"
+				ThumbnailFile="paginas/thumbs/C_04_EscuelaLogistica_06.png"
+				ZoomFiles="paginas/zoom/C_04_EscuelaLogistica_06.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+	<PageData	PageFile="paginas/C_04_EscuelaLogistica_07.jpg"
+				ThumbnailFile="paginas/thumbs/C_04_EscuelaLogistica_07.png"
+				ZoomFiles="paginas/zoom/C_04_EscuelaLogistica_07.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				Label="Capitulo04-02"
+				
+				/>
+	<PageData	PageFile="paginas/C_04_EscuelaLogistica_08.jpg"
+				ThumbnailFile="paginas/thumbs/C_04_EscuelaLogistica_08.png"
+				ZoomFiles="paginas/zoom/C_04_EscuelaLogistica_08.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+	<PageData	PageFile="paginas/C_04_EscuelaLogistica_09.jpg"
+				ThumbnailFile="paginas/thumbs/C_04_EscuelaLogistica_09.png"
+				ZoomFiles="paginas/zoom/C_04_EscuelaLogistica_09.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+	<PageData	PageFile="paginas/C_04_EscuelaLogistica_10.jpg"
+				ThumbnailFile="paginas/thumbs/C_04_EscuelaLogistica_10.png"
+				ZoomFiles="paginas/zoom/C_04_EscuelaLogistica_10.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+<!-- Fin del Capítulo 04 -->				
+
+
+<!-- Capítulo 08 -->				
+
+	<PageData	PageFile="paginas/C_08_EscuelaLiderazgo_01.jpg"
+				ThumbnailFile="paginas/thumbs/C_08_EscuelaLiderazgo_01.png"
+				ZoomFiles="paginas/zoom/C_08_EscuelaLiderazgo_01.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				Label="Capitulo08"
+				
+				/>
+	<PageData	PageFile="paginas/C_08_EscuelaLiderazgo_02.jpg"
+				ThumbnailFile="paginas/thumbs/C_08_EscuelaLiderazgo_02.png"
+				ZoomFiles="paginas/zoom/C_08_EscuelaLiderazgo_02.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+	<PageData	PageFile="paginas/C_08_EscuelaLiderazgo_03.jpg"
+				ThumbnailFile="paginas/thumbs/C_08_EscuelaLiderazgo_03.png"
+				ZoomFiles="paginas/zoom/C_08_EscuelaLiderazgo_03.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+	<PageData	PageFile="paginas/C_08_EscuelaLiderazgo_04.jpg"
+				ThumbnailFile="paginas/thumbs/C_08_EscuelaLiderazgo_04.png"
+				ZoomFiles="paginas/zoom/C_08_EscuelaLiderazgo_04.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+	<PageData	PageFile="paginas/C_08_EscuelaLiderazgo_05.jpg"
+				ThumbnailFile="paginas/thumbs/C_08_EscuelaLiderazgo_05.png"
+				ZoomFiles="paginas/zoom/C_08_EscuelaLiderazgo_05.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				Label="Capitulo08-01"
+				
+				/>
+	<PageData	PageFile="paginas/C_08_EscuelaLiderazgo_06.jpg"
+				ThumbnailFile="paginas/thumbs/C_08_EscuelaLiderazgo_06.png"
+				ZoomFiles="paginas/zoom/C_08_EscuelaLiderazgo_06.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+	<PageData	PageFile="paginas/C_08_EscuelaLiderazgo_07.jpg"
+				ThumbnailFile="paginas/thumbs/C_08_EscuelaLiderazgo_07.png"
+				ZoomFiles="paginas/zoom/C_08_EscuelaLiderazgo_07.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				Label="Capitulo08-02"
+				
+				/>
+	<PageData	PageFile="paginas/C_08_EscuelaLiderazgo_08.jpg"
+				ThumbnailFile="paginas/thumbs/C_08_EscuelaLiderazgo_08.png"
+				ZoomFiles="paginas/zoom/C_08_EscuelaLiderazgo_08.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+	<PageData	PageFile="paginas/C_08_EscuelaLiderazgo_09.jpg"
+				ThumbnailFile="paginas/thumbs/C_08_EscuelaLiderazgo_09.png"
+				ZoomFiles="paginas/zoom/C_08_EscuelaLiderazgo_09.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+	<PageData	PageFile="paginas/C_08_EscuelaLiderazgo_10.jpg"
+				ThumbnailFile="paginas/thumbs/C_08_EscuelaLiderazgo_10.png"
+				ZoomFiles="paginas/zoom/C_08_EscuelaLiderazgo_10.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+<!-- Fin del Capítulo 08 -->					
 				
 				
 				
@@ -817,6 +971,23 @@
 	<Link Name="Escuela Upstream" TargetLabel="Capitulo03" Skip="true" />
 	<Link Name="Escuela Upstream: Descúbrenos: exploramos y producimos conocimiento" TargetLabel="Capitulo03-01" Skip="true" />
 	<Link Name="Escuela Upstream: Conoce tus oportunidades" TargetLabel="Capitulo03-02" Skip="true" />
+	<Link Name="Escuela de Logística y Transporte" TargetLabel="Capitulo04" Skip="true" />
+	<Link Name="Escuela de Logística y Transporte: Descúbrenos: transportamos conocimiento" TargetLabel="Capitulo04-01" Skip="true" />
+	<Link Name="Escuela de Logística y Transporte: Conoce tus oportunidades" TargetLabel="Capitulo04-02" Skip="true" />
+	<Link Name="Escuela Downstream" TargetLabel="Capitulo05" Skip="true" />
+	<Link Name="Escuela Downstream: Descúbrenos: refinamos el saber" TargetLabel="Capitulo05-01" Skip="true" />
+	<Link Name="Escuela Downstream: Conoce tus oportunidades" TargetLabel="Capitulo05-02" Skip="true" />
+	<Link Name="Escuela Corporativa" TargetLabel="Capitulo06" Skip="true" />
+	<Link Name="Escuela Corporativa: Descúbrenos: gestionamos el saber" TargetLabel="Capitulo06-01" Skip="true" />
+	<Link Name="Escuela Corporativa: Conoce tus oportunidades" TargetLabel="Capitulo06-02" Skip="true" />
+	<Link Name="Escuela de Innovación y Tecnología" TargetLabel="Capitulo07" Skip="true" />
+	<Link Name="Escuela de Innovación y Tecnología: Descúbrenos: innovamos y creamos conocimiento" TargetLabel="Capitulo07-01" Skip="true" />
+	<Link Name="Escuela de Innovación y Tecnología: Conoce tus oportunidades" TargetLabel="Capitulo07-02" Skip="true" />
+	<Link Name="Escuela de Liderazgo" TargetLabel="Capitulo08" Skip="true" />
+	<Link Name="Escuela de Liderazgo: Descúbrenos: lideramos el saber" TargetLabel="Capitulo08-01" Skip="true" />
+	<Link Name="Escuela de Liderazgo: Conoce tus oportunidades" TargetLabel="Capitulo08-02" Skip="true" />
+	<Link Name="Conoce tus instructores" TargetLabel="Capitulo09" Skip="true" />
+	<Link Name="Haz parte de la Universidad Ecopetrol" TargetLabel="Capitulo10" Skip="true" />
 </TableOfContents>
 <Info>
 	<Title Name="Portafolio digital de la Universidad de Ecopetrol" Align="center" Separator="false" />
