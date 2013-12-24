@@ -248,9 +248,9 @@
 				
 <!-- Índice general del libro -->
 
-	<PageData	PageFile="paginas/03_Capitulo_01.jpg"
+	<PageData	PageFile="paginas/03_preliminar.jpg"
 				ThumbnailFile="paginas/thumbs/03_preliminar.png"
-				ZoomFiles="paginas/zoom/03_Capitulo_01.jpg"
+				ZoomFiles="paginas/zoom/03_preliminar.jpg"
 				Label="Indice"
 				PageWidth="595"
 				PageHeight="842"
@@ -1411,11 +1411,37 @@
 				PageHeight="842"
 				
 				/>
+<!-- Fin del Capítulo 09 -->					
+				
+<!-- Capítulo 10 -->
+	<PageData	PageFile="paginas/156_Capitulo_10.jpg"		
+				ThumbnailFile="paginas/thumbs/156_Capitulo_10.png"
+				ZoomFiles="paginas/zoom/156_Capitulo_10.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				Label="Capitulo10"
+				
+				/>
+	<PageData	PageFile="paginas/157_Capitulo_10.jpg"		
+				ThumbnailFile="paginas/thumbs/157_Capitulo_10.png"
+				ZoomFiles="paginas/zoom/157_Capitulo_10.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+	<PageData	PageFile="paginas/158_Capitulo_10.jpg"		
+				ThumbnailFile="paginas/thumbs/158_Capitulo_10.png"
+				ZoomFiles="paginas/zoom/158_Capitulo_10.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+<!-- Fin del Capítulo 10 -->
+				
 				
 				
 				
 <!-- Si las páginas son impares o pares se activa o desactiva esta PageData
--->
 
 	<PageData	PageFile="paginas/preGuardaContraportada.swf"
 				ThumbnailFile="paginas/thumbs/preGuardaContraportada.png"
@@ -1423,6 +1449,7 @@
 				PageHeight="842"
 				
 				/>
+-->
 	<PageData	PageFile="paginas/guardaContraportada.swf"
 				ThumbnailFile="paginas/thumbs/guardaContraportada.png"
 				PageWidth="640"

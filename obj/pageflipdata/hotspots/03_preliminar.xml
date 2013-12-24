@@ -9,7 +9,7 @@
 		TargetLabel="Capitulo01"
 		Skip="true"
 		Color="0x000000" >
-		<Rectangle>20,115,175,160</Rectangle>
+		<Rectangle>20,130,175,160</Rectangle>
 	</HotSpot>
 	<HotSpot
 		PopupTitle="La UE te abre las puertas"
@@ -20,7 +20,7 @@
 		TargetLabel="Capitulo01-01"
 		Skip="true"
 		Color="0x000000" >
-		<Rectangle>30,275,160,17</Rectangle>
+		<Rectangle>30,290,160,17</Rectangle>
 	</HotSpot>
 	<HotSpot
 		PopupTitle="La UE te abre las puertas"
@@ -31,7 +31,7 @@
 		TargetLabel="Capitulo01-02"
 		Skip="true"
 		Color="0x000000" >
-		<Rectangle>30,292,160,17</Rectangle>
+		<Rectangle>30,307,160,17</Rectangle>
 	</HotSpot>
 	<HotSpot
 		PopupTitle="La UE te abre las puertas"
@@ -42,7 +42,7 @@
 		TargetLabel="Capitulo01-03"
 		Skip="true"
 		Color="0x000000" >
-		<Rectangle>30,309,160,17</Rectangle>
+		<Rectangle>30,324,160,17</Rectangle>
 	</HotSpot>
 	<HotSpot
 		PopupTitle="La UE te abre las puertas"
@@ -53,7 +53,7 @@
 		TargetLabel="Capitulo01-04"
 		Skip="true"
 		Color="0x000000" >
-		<Rectangle>30,329,160,17</Rectangle>
+		<Rectangle>30,341,160,17</Rectangle>
 	</HotSpot>
 	<!-- Hotspots del Capítulo 02 -->
 	<HotSpot
@@ -65,7 +65,7 @@
 		TargetLabel="Capitulo02"
 		Skip="true"
 		Color="0x000000" >
-		<Rectangle>20,570,175,160</Rectangle>
+		<Rectangle>20,370,175,160</Rectangle>
 	</HotSpot>
 	<HotSpot
 		PopupTitle="Escuela Upstream"
@@ -76,7 +76,7 @@
 		TargetLabel="Capitulo02-01"
 		Skip="true"
 		Color="0x000000" >
-		<Rectangle>30,735,160,30</Rectangle>
+		<Rectangle>30,535,160,30</Rectangle>
 	</HotSpot>
 	<HotSpot
 		PopupTitle="Escuela Upstream"
@@ -87,11 +87,45 @@
 		TargetLabel="Capitulo02-02"
 		Skip="true"
 		Color="0x000000" >
-		<Rectangle>30,765,160,17</Rectangle>
+		<Rectangle>30,565,160,17</Rectangle>
+	</HotSpot>
+	<!-- Hotspots del Capítulo 03 -->
+	<HotSpot
+		PopupTitle="Escuela de Transporte y Logística"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		TargetLabel="Capitulo03"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>20,605,175,160</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Escuela de Transporte y Logística"
+		PopupText="Descúbrenos: transportamos conocimiento"
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		TargetLabel="Capitulo03-01"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>30,765,160,30</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Escuela de Transporte y Logística"
+		PopupText="Conoce tus oportunidades"
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		TargetLabel="Capitulo03-02"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>30,795,160,17</Rectangle>
 	</HotSpot>
 	<!-- Hotspots del Capítulo 04 -->
 	<HotSpot
-		PopupTitle="Escuela de Logística y Transporte"
+		PopupTitle="Escuela Downstream"
 		PopupText=""
 		PopupImageFile=""
 		Opacity="0"
@@ -99,21 +133,21 @@
 		TargetLabel="Capitulo04"
 		Skip="true"
 		Color="0x000000" >
-		<Rectangle>210,90,175,160</Rectangle>
+		<Rectangle>210,130,175,160</Rectangle>
 	</HotSpot>
 	<HotSpot
-		PopupTitle="Escuela de Logística y Transporte"
-		PopupText="Descúbrenos: transportamos conocimiento"
+		PopupTitle="Escuela Downstream"
+		PopupText="Descúbrenos: refinamos el saber"
 		PopupImageFile=""
 		Opacity="0"
 		HoverOpacity="40"
 		TargetLabel="Capitulo04-01"
 		Skip="true"
 		Color="0x000000" >
-		<Rectangle>220,250,160,30</Rectangle>
+		<Rectangle>220,290,160,30</Rectangle>
 	</HotSpot>
 	<HotSpot
-		PopupTitle="Escuela de Logística y Transporte"
+		PopupTitle="Escuela Downstream"
 		PopupText="Conoce tus oportunidades"
 		PopupImageFile=""
 		Opacity="0"
@@ -121,19 +155,53 @@
 		TargetLabel="Capitulo04-02"
 		Skip="true"
 		Color="0x000000" >
-		<Rectangle>220,280,160,17</Rectangle>
+		<Rectangle>220,320,160,17</Rectangle>
 	</HotSpot>
-	<!-- Hotspots del Capítulo 07 -->
+	<!-- Hotspots del Capítulo 05 -->
+	<HotSpot
+		PopupTitle="Escuela Corporativa"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		TargetLabel="Capitulo05"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>210,370,175,160</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Escuela Corporativa"
+		PopupText="Descúbrenos: gestionamos el saber"
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		TargetLabel="Capitulo05-01"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>220,535,160,30</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Escuela Corporativa"
+		PopupText="Conoce tus oportunidades"
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		TargetLabel="Capitulo05-02"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>220,565,160,17</Rectangle>
+	</HotSpot>
+	<!-- Hotspots del Capítulo 06 -->
 	<HotSpot
 		PopupTitle="Escuela de Innovación y Tecnología"
 		PopupText=""
 		PopupImageFile=""
 		Opacity="0"
 		HoverOpacity="40"
-		TargetLabel="Capitulo07"
+		TargetLabel="Capitulo06"
 		Skip="true"
 		Color="0x000000" >
-		<Rectangle>400,20,175,160</Rectangle>
+		<Rectangle>210,605,175,160</Rectangle>
 	</HotSpot>
 	<HotSpot
 		PopupTitle="Escuela de Innovación y Tecnología"
@@ -141,10 +209,10 @@
 		PopupImageFile=""
 		Opacity="0"
 		HoverOpacity="40"
-		TargetLabel="Capitulo07-01"
+		TargetLabel="Capitulo06-01"
 		Skip="true"
 		Color="0x000000" >
-		<Rectangle>410,180,160,30</Rectangle>
+		<Rectangle>220,765,160,30</Rectangle>
 	</HotSpot>
 	<HotSpot
 		PopupTitle="Escuela de Innovación y Tecnología"
@@ -152,33 +220,33 @@
 		PopupImageFile=""
 		Opacity="0"
 		HoverOpacity="40"
-		TargetLabel="Capitulo07-02"
+		TargetLabel="Capitulo06-02"
 		Skip="true"
 		Color="0x000000" >
-		<Rectangle>410,210,160,17</Rectangle>
+		<Rectangle>220,795,160,17</Rectangle>
 	</HotSpot>
-	<!-- Hotspots del Capítulo 08 -->
+	<!-- Hotspots del Capítulo 07 -->
 	<HotSpot
 		PopupTitle="Escuela de Liderazgo"
 		PopupText=""
 		PopupImageFile=""
 		Opacity="0"
 		HoverOpacity="40"
-		TargetLabel="Capitulo08"
+		TargetLabel="Capitulo07"
 		Skip="true"
 		Color="0x000000" >
-		<Rectangle>400,245,175,160</Rectangle>
+		<Rectangle>400,35,175,160</Rectangle>
 	</HotSpot>
 	<HotSpot
 		PopupTitle="Escuela de Liderazgo"
-		PopupText="Descúbrenos: lideramos el saber"
+		PopupText="Descúbrenos: innovamos y creamos conocimiento"
 		PopupImageFile=""
 		Opacity="0"
 		HoverOpacity="40"
-		TargetLabel="Capitulo08-01"
+		TargetLabel="Capitulo07-01"
 		Skip="true"
 		Color="0x000000" >
-		<Rectangle>410,405,160,30</Rectangle>
+		<Rectangle>410,195,160,30</Rectangle>
 	</HotSpot>
 	<HotSpot
 		PopupTitle="Escuela de Liderazgo"
@@ -186,9 +254,67 @@
 		PopupImageFile=""
 		Opacity="0"
 		HoverOpacity="40"
+		TargetLabel="Capitulo07-02"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>410,225,160,17</Rectangle>
+	</HotSpot>
+	<!-- Hotspots del Capítulo 08 -->
+	<HotSpot
+		PopupTitle="Escuela de Mantenimiento y Confiabilidad"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		TargetLabel="Capitulo08"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>400,255,175,160</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Escuela de Mantenimiento y Confiabilidad"
+		PopupText="Descúbrenos: lideramos el saber"
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		TargetLabel="Capitulo08-01"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>410,415,160,30</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Escuela de Mantenimiento y Confiabilidad"
+		PopupText="Conoce tus oportunidades"
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
 		TargetLabel="Capitulo08-02"
 		Skip="true"
 		Color="0x000000" >
-		<Rectangle>410,435,160,17</Rectangle>
+		<Rectangle>410,445,160,17</Rectangle>
+	</HotSpot>
+	<!-- Hotspots del Capítulo 09 -->
+	<HotSpot
+		PopupTitle="Conoce tus instructores"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		TargetLabel="Capitulo09"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>400,475,175,160</Rectangle>
+	</HotSpot>
+	<!-- Hotspots del Capítulo 10 -->
+	<HotSpot
+		PopupTitle="Haz parte de la Universidad Ecopetrol"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		TargetLabel="Capitulo10"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>400,635,175,180</Rectangle>
 	</HotSpot>
 </HotSpotData>
