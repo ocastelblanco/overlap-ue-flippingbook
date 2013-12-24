@@ -585,6 +585,7 @@
 				ZoomFiles="paginas/zoom/44_Capitulo_02.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/44_Capitulo_02.xml"
 				
 				/>
 	<PageData	PageFile="paginas/45_Capitulo_02.jpg"		
@@ -1337,6 +1338,79 @@
 				
 				/>
 <!-- Fin del Capítulo 08 -->
+
+<!-- Capítulo 09 -->
+	<PageData	PageFile="paginas/146_Capitulo_09.jpg"		
+				ThumbnailFile="paginas/thumbs/146_Capitulo_09.png"
+				ZoomFiles="paginas/zoom/146_Capitulo_09.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				Label="Capitulo09"
+				
+				/>
+	<PageData	PageFile="paginas/147_Capitulo_09.jpg"		
+				ThumbnailFile="paginas/thumbs/147_Capitulo_09.png"
+				ZoomFiles="paginas/zoom/147_Capitulo_09.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+	<PageData	PageFile="paginas/148_Capitulo_09.jpg"		
+				ThumbnailFile="paginas/thumbs/148_Capitulo_09.png"
+				ZoomFiles="paginas/zoom/148_Capitulo_09.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+	<PageData	PageFile="paginas/149_Capitulo_09.jpg"		
+				ThumbnailFile="paginas/thumbs/149_Capitulo_09.png"
+				ZoomFiles="paginas/zoom/149_Capitulo_09.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+	<PageData	PageFile="paginas/150_Capitulo_09.jpg"		
+				ThumbnailFile="paginas/thumbs/150_Capitulo_09.png"
+				ZoomFiles="paginas/zoom/150_Capitulo_09.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+	<PageData	PageFile="paginas/151_Capitulo_09.jpg"		
+				ThumbnailFile="paginas/thumbs/151_Capitulo_09.png"
+				ZoomFiles="paginas/zoom/151_Capitulo_09.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+	<PageData	PageFile="paginas/152_Capitulo_09.jpg"		
+				ThumbnailFile="paginas/thumbs/152_Capitulo_09.png"
+				ZoomFiles="paginas/zoom/152_Capitulo_09.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+	<PageData	PageFile="paginas/153_Capitulo_09.jpg"		
+				ThumbnailFile="paginas/thumbs/153_Capitulo_09.png"
+				ZoomFiles="paginas/zoom/153_Capitulo_09.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+	<PageData	PageFile="paginas/154_Capitulo_09.jpg"		
+				ThumbnailFile="paginas/thumbs/154_Capitulo_09.png"
+				ZoomFiles="paginas/zoom/154_Capitulo_09.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+	<PageData	PageFile="paginas/155_Capitulo_09.jpg"		
+				ThumbnailFile="paginas/thumbs/155_Capitulo_09.png"
+				ZoomFiles="paginas/zoom/155_Capitulo_09.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
 				
 				
 				
@@ -1395,8 +1469,10 @@
 	<Link Name="Escuela de Liderazgo" TargetLabel="Capitulo07" Skip="true" />
 	<Link Name="Escuela de Liderazgo: Descúbrenos: lideramos el saber" TargetLabel="Capitulo07-01" Skip="true" />
 	<Link Name="Escuela de Liderazgo: Conoce tus oportunidades" TargetLabel="Capitulo07-02" Skip="true" />
-	<Link Name="Conoce tus instructores" TargetLabel="Capitulo08" Skip="true" />
-	<Link Name="Haz parte de la Universidad Ecopetrol" TargetLabel="Capitulo09" Skip="true" />
+	<Link Name="Escuela de Mantenimiento y Confiabilidad" TargetLabel="Capitulo08" Skip="true" />
+	<Link Name="Escuela de Mantenimiento y Confiabilidad: Descúbrenos" TargetLabel="Capitulo08-01" Skip="true" />
+	<Link Name="Escuela de Mantenimiento y Confiabilidad: Conoce tus oportunidades" TargetLabel="Capitulo08-02" Skip="true" />
+	<Link Name="Conoce tus instructores" TargetLabel="Capitulo09" Skip="true" />
 	<Link Name="Haz parte de la Universidad Ecopetrol" TargetLabel="Capitulo10" Skip="true" />
 </TableOfContents>
 <Info>

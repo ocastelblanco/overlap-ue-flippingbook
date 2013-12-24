@@ -1,0 +1,87 @@
+﻿<HotSpotData>
+	<!-- Hotspots del Capítulo 04-42 -->
+	<HotSpot
+		PopupTitle="Estratigrafía de secuencias"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Estratigrafia de Secuencias.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,264,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Caracterización de Yacimientos"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Caracterizacion de Yacimientos.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,283,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Evaluación de Prospectos y Plays"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Evaluacion de Prospectos y Plays.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,302,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Modelamiento estructural"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Modelamiento estructural.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,321,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Estratigrafía de secuencias"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Estratigrafia de Secuencias.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,421,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Herramientas geoquímicas"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Herramientas geoquimicas.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,440,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Técnicas geoquímicas de alta resolución"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Tecnicas geoquimicas de alta resolucion.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,499,362,19</Rectangle>
+	</HotSpot>
+</HotSpotData>
