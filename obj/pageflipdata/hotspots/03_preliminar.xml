@@ -55,14 +55,14 @@
 		Color="0x000000" >
 		<Rectangle>30,329,160,17</Rectangle>
 	</HotSpot>
-	<!-- Hotspots del Capítulo 03 -->
+	<!-- Hotspots del Capítulo 02 -->
 	<HotSpot
 		PopupTitle="Escuela Upstream"
 		PopupText=""
 		PopupImageFile=""
 		Opacity="0"
 		HoverOpacity="40"
-		TargetLabel="Capitulo03"
+		TargetLabel="Capitulo02"
 		Skip="true"
 		Color="0x000000" >
 		<Rectangle>20,570,175,160</Rectangle>
@@ -73,7 +73,7 @@
 		PopupImageFile=""
 		Opacity="0"
 		HoverOpacity="40"
-		TargetLabel="Capitulo03-01"
+		TargetLabel="Capitulo02-01"
 		Skip="true"
 		Color="0x000000" >
 		<Rectangle>30,735,160,30</Rectangle>
@@ -84,7 +84,7 @@
 		PopupImageFile=""
 		Opacity="0"
 		HoverOpacity="40"
-		TargetLabel="Capitulo03-02"
+		TargetLabel="Capitulo02-02"
 		Skip="true"
 		Color="0x000000" >
 		<Rectangle>30,765,160,17</Rectangle>
