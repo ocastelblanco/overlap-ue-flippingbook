@@ -1,7 +1,7 @@
 ﻿<HotSpotData>
 	<HotSpot
 		PopupTitle="La UE te abre las puertas"
-		PopupText="Video de bienvenida" 
+		PopupText="Bienvenida" 
 		LightBoxGroup="video01"
 		Opacity="0"
 		HoverOpacity="40"

@@ -239,7 +239,7 @@
 
 	<PageData	PageFile="paginas/02_Capitulo_00.png"
 				ThumbnailFile="paginas/thumbs/02_preliminar.png"
-				ZoomFiles="paginas/zoom/02_Capitulo_01.jpg"
+				ZoomFiles="paginas/zoom/02_preliminar.jpg"
 				PageWidth="640"
 				PageHeight="842"
 				
@@ -447,15 +447,39 @@
 				
 				/>
 				
+	<PageData	PageFile="paginas/27_Capitulo_01.jpg"
+				ThumbnailFile="paginas/thumbs/27_Capitulo_01.png"
+				ZoomFiles="paginas/zoom/27_Capitulo_01.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+	<PageData	PageFile="paginas/28_Capitulo_01.jpg"
+				ThumbnailFile="paginas/thumbs/28_Capitulo_01.png"
+				ZoomFiles="paginas/zoom/28_Capitulo_01.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
+	<PageData	PageFile="paginas/29_Capitulo_01.jpg"
+				ThumbnailFile="paginas/thumbs/29_Capitulo_01.png"
+				ZoomFiles="paginas/zoom/29_Capitulo_01.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+				
 <!-- Fin del Capítulo 01 -->
 
-	<!-- Temporal mientras se acomodan las demás seccione o capítulos
 	<PageData	PageFile="paginas/preGuardaContraportada.swf"
 				ThumbnailFile="paginas/thumbs/preGuardaContraportada.png"
 				PageWidth="595"
 				PageHeight="842"
 				
 				/>
+	<!-- Temporal mientras se acomodan las demás seccione o capítulos
  -->
 
 <!-- Capítulo 03 -->
