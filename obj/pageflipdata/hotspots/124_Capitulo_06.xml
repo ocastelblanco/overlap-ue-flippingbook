@@ -1,0 +1,39 @@
+﻿<HotSpotData>
+	<!-- Hotspots del Capítulo 06-124 -->
+	<HotSpot
+		PopupTitle="Gestión del conocimiento"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Formación en Innovación para Innovas - Nivel 1 Innova Promotor.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,414,362,29</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Formación en Innovación para Innovas"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Formación en Innovación para Innovas - Nivel 2 Innova Mentor.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,443,362,29</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Cumbre de Innovación"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Formación en Innovación para Innovas - Nivel 3 Innova Facilitador.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,472,362,29</Rectangle>
+	</HotSpot>
+</HotSpotData>

@@ -1,0 +1,159 @@
+﻿<HotSpotData>
+	<!-- Hotspots del Capítulo 04-42 -->
+	<HotSpot
+		PopupTitle="Inducción al Proceso Exploratorio"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Induccion al Proceso Exploratorio.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,290,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Geología del Petroleo"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Geologia  del Petroleo.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,309,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Básico de Reservas de Hidrocarburos"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Basico de Reservas de Hidrocarburos.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,328,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Geoquímica"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Geoquimica.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,347,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Estratigrafía"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Estratigrafia.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,366,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Geología Estructural"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Geologia Estructural.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,385,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Evaluación de Formaciones Una Mirada Hacia la Roca y sus Fluidos"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Evaluacion de Formaciones Una Mirada Hacia la Roca y sus Fluidos.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,404,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Análisis de Cuencas"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Analisis de Cuencas.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,423,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="El Método Sísmico Aplicado a la Exploración de Hidrocarburos"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/El Metodo Sismico Aplicado a la Exploracion de Hidrocarburos.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,442,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Introducción a la Geoestadística"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Introduccion a la Geoestadistica.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,461,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Análisis de Riesgo y Toma de Decisiones Usando Cristal Ball"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Analisis de Riesgo y Toma de Decisiones Usando Cristal Ball.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,480,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Economía y Toma De Decisiones en Proyectos de E&P"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Economía y Toma De Decisiones en Proyectos de E&P.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,499,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Contratación y Negociación Petrolera"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Contratación y Negociación Petrolera.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,518,362,19</Rectangle>
+	</HotSpot>
+</HotSpotData>

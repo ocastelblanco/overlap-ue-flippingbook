@@ -1,0 +1,99 @@
+﻿<HotSpotData>
+	<!-- Hotspots del Capítulo 04-42 -->
+	<HotSpot
+		PopupTitle="Adquisición  Procesamiento e Interpretación Sísmica"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Adquisicion  Procesamiento e Interpretacion Sismica.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,298,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Velocidades Sísmicas y Conversión a Profundidad"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Velocidades Sismicas y Conversion a Profundidad.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,317,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Interpretación Sísmica Estructural"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Interpretacion Sismica Estructural.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,336,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Análisis básico de laboratorio"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Analisis basico de laboratorio.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,355,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Petrofisica Intermedia"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Petrofisica Intermedia.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,374,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Principios y Aplicaciones de AVO  Inversión y Atributos Sísmicos"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Principios y Aplicaciones de AVO  Inversion y Atributos Sismicos.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,429,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Estratigrafía Sísmica"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Estratigrafia Sismica.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,448,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Mapeo de estructuras"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Mapeo de estructuras.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,467,362,19</Rectangle>
+	</HotSpot>
+</HotSpotData>

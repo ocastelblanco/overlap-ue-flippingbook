@@ -1,0 +1,99 @@
+﻿<HotSpotData>
+	<!-- Hotspots del Capítulo 04-42 -->
+	<HotSpot
+		PopupTitle="Estilos estructurales"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Estilos Estructurales.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,401,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Interpretación Sísmica Estructural"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Interpretacion Sismica Estructural.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,420,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Mapeo de estructuras"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Mapeo de estructuras.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,439,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Análisis básico de laboratorio"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Analisis basico de laboratorio.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,458,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Petrofisica Intermedia"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Petrofisica Intermedia.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,477,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Estilos Estructurales En Ambientes Compresionales Y Transpresionales"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Estilos Estructurales En Ambientes Compresionales Y Transpresionales.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,530,362,38</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Análisis De Trampas Estructurales En Ambientes Extensionales"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Analisis De Trampas Estructurales En Ambientes Extensionales.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,568,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Modelamiento estructural"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Modelamiento estructural.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,587,362,19</Rectangle>
+	</HotSpot>
+</HotSpotData>

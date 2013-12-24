@@ -554,6 +554,7 @@
 				ZoomFiles="paginas/zoom/40_Capitulo_02.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/40_Capitulo_02.xml"
 				
 				/>
 	<PageData	PageFile="paginas/41_Capitulo_02.jpg"		
@@ -568,6 +569,7 @@
 				ZoomFiles="paginas/zoom/42_Capitulo_02.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/42_Capitulo_02.xml"
 				
 				/>
 	<PageData	PageFile="paginas/43_Capitulo_02.jpg"		
@@ -575,6 +577,7 @@
 				ZoomFiles="paginas/zoom/43_Capitulo_02.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/43_Capitulo_02.xml"
 				
 				/>
 	<PageData	PageFile="paginas/44_Capitulo_02.jpg"		
@@ -1169,6 +1172,7 @@
 				PageWidth="595"
 				PageHeight="842"
 				Label="Capitulo06-02"
+				HotSpotFile="hotspots/124_Capitulo_06.xml"
 				
 				/>
 	<PageData	PageFile="paginas/125_Capitulo_06.jpg"		
@@ -1178,6 +1182,161 @@
 				PageHeight="842"
 				
 				/>
+
+				
+<!-- Fin del Capítulo 06 -->					
+				
+<!-- Capítulo 07 -->
+	<PageData	PageFile="paginas/126_Capitulo_07.jpg"		
+				ThumbnailFile="paginas/thumbs/126_Capitulo_07.png"
+				ZoomFiles="paginas/zoom/126_Capitulo_07.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				Label="Capitulo07"
+				
+				/>	
+	<PageData	PageFile="paginas/127_Capitulo_07.jpg"		
+				ThumbnailFile="paginas/thumbs/127_Capitulo_07.png"
+				ZoomFiles="paginas/zoom/127_Capitulo_07.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+	<PageData	PageFile="paginas/128_Capitulo_07.jpg"		
+				ThumbnailFile="paginas/thumbs/128_Capitulo_07.png"
+				ZoomFiles="paginas/zoom/128_Capitulo_07.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+	<PageData	PageFile="paginas/129_Capitulo_07.jpg"		
+				ThumbnailFile="paginas/thumbs/129_Capitulo_07.png"
+				ZoomFiles="paginas/zoom/129_Capitulo_07.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+	<PageData	PageFile="paginas/130_Capitulo_07.jpg"		
+				ThumbnailFile="paginas/thumbs/130_Capitulo_07.png"
+				ZoomFiles="paginas/zoom/130_Capitulo_07.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				Label="Capitulo07-01"
+				
+				/>
+	<PageData	PageFile="paginas/131_Capitulo_07.jpg"		
+				ThumbnailFile="paginas/thumbs/131_Capitulo_07.png"
+				ZoomFiles="paginas/zoom/131_Capitulo_07.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+	<PageData	PageFile="paginas/132_Capitulo_07.jpg"		
+				ThumbnailFile="paginas/thumbs/132_Capitulo_07.png"
+				ZoomFiles="paginas/zoom/132_Capitulo_07.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				Label="Capitulo07-02"
+				
+				/>
+	<PageData	PageFile="paginas/133_Capitulo_07.jpg"		
+				ThumbnailFile="paginas/thumbs/133_Capitulo_07.png"
+				ZoomFiles="paginas/zoom/133_Capitulo_07.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+	<PageData	PageFile="paginas/134_Capitulo_07.jpg"		
+				ThumbnailFile="paginas/thumbs/134_Capitulo_07.png"
+				ZoomFiles="paginas/zoom/134_Capitulo_07.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+	<PageData	PageFile="paginas/135_Capitulo_07.jpg"		
+				ThumbnailFile="paginas/thumbs/135_Capitulo_07.png"
+				ZoomFiles="paginas/zoom/135_Capitulo_07.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+	<PageData	PageFile="paginas/136_Capitulo_07.jpg"		
+				ThumbnailFile="paginas/thumbs/136_Capitulo_07.png"
+				ZoomFiles="paginas/zoom/136_Capitulo_07.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+	<PageData	PageFile="paginas/137_Capitulo_07.jpg"		
+				ThumbnailFile="paginas/thumbs/137_Capitulo_07.png"
+				ZoomFiles="paginas/zoom/137_Capitulo_07.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+<!-- Fin del Capítulo 07 -->					
+				
+<!-- Capítulo 08 -->
+	<PageData	PageFile="paginas/138_Capitulo_08.jpg"		
+				ThumbnailFile="paginas/thumbs/138_Capitulo_08.png"
+				ZoomFiles="paginas/zoom/138_Capitulo_08.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				Label="Capitulo08"
+				
+				/>	
+	<PageData	PageFile="paginas/139_Capitulo_08.jpg"		
+				ThumbnailFile="paginas/thumbs/139_Capitulo_08.png"
+				ZoomFiles="paginas/zoom/139_Capitulo_08.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+	<PageData	PageFile="paginas/140_Capitulo_08.jpg"		
+				ThumbnailFile="paginas/thumbs/140_Capitulo_08.png"
+				ZoomFiles="paginas/zoom/140_Capitulo_08.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+	<PageData	PageFile="paginas/141_Capitulo_08.jpg"		
+				ThumbnailFile="paginas/thumbs/141_Capitulo_08.png"
+				ZoomFiles="paginas/zoom/141_Capitulo_08.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+	<PageData	PageFile="paginas/142_Capitulo_08.jpg"		
+				ThumbnailFile="paginas/thumbs/142_Capitulo_08.png"
+				ZoomFiles="paginas/zoom/142_Capitulo_08.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				Label="Capitulo08-01"
+				
+				/>
+	<PageData	PageFile="paginas/143_Capitulo_08.jpg"		
+				ThumbnailFile="paginas/thumbs/143_Capitulo_08.png"
+				ZoomFiles="paginas/zoom/143_Capitulo_08.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+	<PageData	PageFile="paginas/144_Capitulo_08.jpg"		
+				ThumbnailFile="paginas/thumbs/144_Capitulo_08.png"
+				ZoomFiles="paginas/zoom/144_Capitulo_08.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				Label="Capitulo08-02"
+				
+				/>
+	<PageData	PageFile="paginas/145_Capitulo_08.jpg"		
+				ThumbnailFile="paginas/thumbs/145_Capitulo_08.png"
+				ZoomFiles="paginas/zoom/145_Capitulo_08.jpg"
+				PageWidth="595"
+				PageHeight="842"
+				
+				/>
+<!-- Fin del Capítulo 08 -->
 				
 				
 				
