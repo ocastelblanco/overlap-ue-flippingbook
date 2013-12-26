@@ -3,7 +3,7 @@
 
 body {
 
-	background:		#FFFFFF;
+	background:		#00483A;
 	text-align:		center;
 	margin:			0;
 	width:			100%;
@@ -22,4 +22,11 @@ html {
 	left:			0px;
 	height:			100%;
 	width:			100%;
+}
+#borde {
+	background-color: #263935;
+	background-image: url(../images/logo.png);
+	background-position: 10px 5px;
+	background-repeat: no-repeat;
+	height: 50px;
 }

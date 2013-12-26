@@ -53,7 +53,7 @@
 	BaseStageWidth="820"
 	BaseStageHeight="640"
 	
-	TransparentBackground="false"
+	TransparentBackground="true"
 	BackgroundColor="0x00483A"
 	BackgroundImageFile=""
 
@@ -78,8 +78,6 @@
 	CustomControlBarIcons="false"
 	xCustomControlBarFile="pageFlipControls.swf"
 	
-	CustomControlBarLayout="false"
-	
 	EnableButtonColoring="true"
 	ButtonColor="0xFFFFFF"
 	ButtonAlpha="100"
@@ -92,13 +90,13 @@
 	
 	ButtonToolTip="true"
 	
-	ControlBarLoaderEnabled="true"
+	ControlBarLoaderEnabled="false"
 	ButtonFirstLastEnabled="true"			  	
 	ButtonLeftRightEnabled="true"			  	
 	ButtonZoomEnabled="true"			  	
 	ButtonPrintEnabled="false"			  	
 	ButtonAutoFlipEnabled="true"			  	
-	ButtonPDFLinkEnabled="true"
+	ButtonPDFLinkEnabled="false"
 	PDFlink="PortafolioUE.pdf"
 	ButtonLanguageEnabled="false"
 	ButtonThumbnailEnabled="true"			  	
@@ -153,7 +151,7 @@
 	DefaultTransitionDuration="250"
 	FlippingSpreadActivity="true"
 		
-	LayoutOrder="PREVIEW-CONTENT-CONTROLBAR"
+	LayoutOrder="CONTROLBAR-PREVIEW-CONTENT"
 	ControlBarHeight="50"
 	ControlBarOffset="10"
 	ContentPreviewHeight="90"
@@ -1504,8 +1502,7 @@
 </TableOfContents>
 <Info>
 	<Title Name="Portafolio digital de la Universidad de Ecopetrol" Align="center" Separator="false" />
-	<Description Text="Creada por Oliver Castelblanco y Johana Hernández para Overlap 
-	© 2013 Universidad de Ecopetrol" Align="center" Separator="false" />
+	<Description Text="© 2013 Universidad de Ecopetrol" Align="center" Separator="false" />
 	<Description Text="Sonidos compuestos por Mark Beke © 2011" Align="center" />
 </Info>
 <Language>
