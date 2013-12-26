@@ -1,0 +1,111 @@
+﻿<HotSpotData>
+	<!-- Hotspots del Capítulo 04-45 -->
+	<HotSpot
+		PopupTitle="Estratigrafía sísmica"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Estratigrafia Sismica.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,234,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Estratigrafía de Secuencias"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Estratigrafia de Secuencias.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,253,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Depósitos Siliciclasticos"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Depositos Siliciclasticos.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,272,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Depositos Carbonatados"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Depositos Carbonatados.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,291,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Análisis básico de laboratorio"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Analisis basico de laboratorio.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,310,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Petrofisica Intermedia"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Petrofisica Intermedia.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,329,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Bioestratigrafía Aplicada"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Bioestratigrafia Aplicada.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,348,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Caracterización de Yacimientos"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Caracterizacion de Yacimientos.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,404,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Evaluación de Prospectos y Plays"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Evaluacion de Prospectos y Plays.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,423,362,19</Rectangle>
+	</HotSpot>
+</HotSpotData>

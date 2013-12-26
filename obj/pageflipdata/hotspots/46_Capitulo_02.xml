@@ -1,0 +1,207 @@
+﻿<HotSpotData>
+	<!-- Hotspots del Capítulo 04-46 -->
+	<HotSpot
+		PopupTitle="Registros en Hueco Abierto"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Registros Eléctricos en Hueco Abierto y Entubado.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,266,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Interpretación de registros de producción"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Interpretacion de Registros de Produccion.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,285,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Análisis básico de laboratorio"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Analisis Basico de Laboratorio.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,304,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Procesos Eficientes para Estimulación de Pozos"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Procesos Eficientes para Estimulación de Pozos - Nivel Básico.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,323,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Petrofisica Intermedia"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Petrofisica Intermedia.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,342,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Análisis de fluidos y PVT para geólogos"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Analisis de fluidos y PVT para geologos.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,400,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Petrofisica Avanzada"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Petrofisica Avanzada.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,419,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Evaluación de prospectos y plays"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Evaluacion de Prospectos y Plays.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,438,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Caracterización de Yacimientos"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Caracterizacion de Yacimientos.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,540,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Registros en Hueco Abierto"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Registros Eléctricos en Hueco Abierto y Entubado.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,559,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Interpretación de Registros de Producción"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Interpretacion de Registros de Produccion .pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,578,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Estilos Estructurales"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Estilos Estructurales.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,597,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Estratigrafia Sismica"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Estratigrafia Sismica.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,616,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Análisis Básico de Laboratorio"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Analisis Basico de Laboratorio.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,635,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Petrofisica Intermedia"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Petrofisica Intermedia.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,654,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Petrofisica Avanzada"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Petrofisica Avanzada"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,713,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Análisis de fluidos y PVT para ingenieros"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Analisis de fluidos y PVT para ingenieros.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,732,362,19</Rectangle>
+	</HotSpot>
+</HotSpotData>

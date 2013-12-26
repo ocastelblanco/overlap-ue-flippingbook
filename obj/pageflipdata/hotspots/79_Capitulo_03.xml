@@ -1,0 +1,207 @@
+﻿<HotSpotData>
+	<!-- Hotspots del Capítulo 03-79 -->
+	<HotSpot
+		PopupTitle="Conocimientos Basicos de la Operación"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Conocimientos Basicos de la Operacion.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,70,362,31</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Control de Calidad en Campo"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Control de Calidad en Campo.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,101,362,31</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Corrosión"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Corrosion.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,132,362,31</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Ellipse para  Operaciones"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Ellipse para  Operaciones.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,163,362,31</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Filosofia Operacional VIT"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Filosofia Operacional VIT.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,194,362,31</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Fundamentos de Mecánica"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Fundamentos de Mecanica.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,225,362,31</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Geotecnia Aplicada a Lineas de Transporte e Hidrocarburos"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Geotecnia Aplicada a Lineas de Transporte e Hidrocarburos.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,256,362,31</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Infraestructura de Transporte"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Infraestructura de Transporte.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,287,362,50</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Inyeccion de Egos"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Inyeccion de Egos.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,337,362,31</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Logistica de Transporte"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Logistica de Transporte.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,368,362,31</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Mantenimiento basado en Condición"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Mantenimiento basado en Condicion.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,399,362,31</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Mantenimiento Basado en Confiabilidad"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Mantenimiento Basado en Confiabilidad.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,430,362,31</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Marcacion y Control de Perdidas - Hurtos"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Marcacion y Control de Perdidas - Hurtos.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,461,362,31</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Mecanica de Fluidos"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Mecanica de Fluidos.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,495,362,31</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Confiabilidad de Equipos"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Confiabilidad de Equipos.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,527,362,31</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Medición de Productos para no Expertos"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Medicion de Productos para no Expertos.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,559,362,31</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Medición Dinamica"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Medicion Dinamica.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,591,362,31</Rectangle>
+	</HotSpot>
+</HotSpotData>

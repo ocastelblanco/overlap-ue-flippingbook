@@ -1,0 +1,99 @@
+﻿<HotSpotData>
+	<!-- Hotspots del Capítulo 04-46 -->
+	<HotSpot
+		PopupTitle="Ajuste y Ensamble de Uniones Bridadas Presurizadas"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Ajuste y Ensamble de Uniones Bridadas Presurizadas.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,316,362,40</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Arquitecturas de Sistemas de Control Local en la VIT"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Arquitecturas de Sistemas de Control Local en la VIT.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,356,362,50</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Bacheo De Productos"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Bacheo De Productos.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,406,362,27</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Certificacion Internacional de Operadores Locales"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Certificacion Internacional de Operadores Locales.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,433,362,50</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Certificacion Internacional de Operadores Remotos"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Certificacion Internacional de Operadores Remotos.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,483,362,50</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Comunicacion SCADA"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Comunicacion SCADA.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,533,362,30</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Comunicaciones en el Ducto"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Comunicaciones en el Ducto.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,563,362,30</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Confiabilidad de Equipos"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Confiabilidad de Equipos.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,593,362,30</Rectangle>
+	</HotSpot>
+</HotSpotData>

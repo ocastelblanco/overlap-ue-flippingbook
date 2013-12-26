@@ -591,6 +591,7 @@
 				ZoomFiles="paginas/zoom/45_Capitulo_02.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/45_Capitulo_02.xml"
 				
 				/>
 	<PageData	PageFile="paginas/46_Capitulo_02.jpg"		
@@ -598,6 +599,7 @@
 				ZoomFiles="paginas/zoom/46_Capitulo_02.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/46_Capitulo_02.xml"
 				
 				/>
 	<PageData	PageFile="paginas/47_Capitulo_02.jpg"		
@@ -829,6 +831,7 @@
 				PageWidth="595"
 				PageHeight="842"
 				Label="Capitulo03-02"
+				HotSpotFile="hotspots/78_Capitulo_03.xml"
 				
 				/>
 	<PageData	PageFile="paginas/79_Capitulo_03.jpg"		
@@ -836,6 +839,7 @@
 				ZoomFiles="paginas/zoom/79_Capitulo_03.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/79_Capitulo_03.xml"
 				
 				/>
 	<PageData	PageFile="paginas/80_Capitulo_03.jpg"		
