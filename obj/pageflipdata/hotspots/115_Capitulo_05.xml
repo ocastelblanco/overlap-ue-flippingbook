@@ -1,0 +1,210 @@
+﻿<HotSpotData>
+<!-- Hotspots del Capítulo 05-105 -->
+
+<HotSpot										
+		PopupTitle="Legislacion Ambiental"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Legislacion Ambiental.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,219,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Identificacion de Aspectos e Impactos ambientales"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Identificacion de Aspectos e Impactos ambientales.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,242,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Cambio climático efecto invernadero"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Cambio climático efecto invernadero.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,265,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Planificacion ambiental"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Planificacion ambiental.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,288,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Manejo de la Herramienta CAMI"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Manejo de la Herramienta CAMI.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,311,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Medio ambiente en vida cotidiana"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Medio ambiente en vida cotidiana.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,334,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Visión integral del Medio Ambiente"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Visión integral del Medio Ambiente.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,357,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Gestión de Emisiones Atmosféricas"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Gestión de Emisiones Atmosféricas.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,380,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Sistema de Comando Incidentes"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Sistema de Comando Incidentes.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,479,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Sistema Comando de Incidente Básico"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Sistema de Comando Incidentes.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,502,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Respuesta a emergencias y Sistema comando de incidentes"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Respuesta a emergencias y Sistema comando de incidentes.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,525,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Sistema Comando de Incidente Básico"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Sistema de Comando Incidentes.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,548,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Contraincendio Básico"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Contraincendios Basico.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,571,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Aseguramiento de Planes de Prevencion y Control de Emergencias Generalidades"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Aseguramiento de Planes de Prevencion y Control de Emergencias Generalidades.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,594,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Manejo y control de derrames"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Control y Manejo de Derrames de Hidrocarburos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,617,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Diseño de sistemas contraincendio"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Diseno de sistemas contraincendios.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,640,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Legislación y normatividad de prevención de emergencias"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Legislación y normatividad de prevención de emergencias.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,663,362,23</Rectangle>
+</HotSpot>								
+								
+
+</HotSpotData>

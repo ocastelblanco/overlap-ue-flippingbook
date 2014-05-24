@@ -1,0 +1,281 @@
+﻿<HotSpotData>
+<!-- Hotspots del Capítulo 05-105 -->
+<HotSpot										
+		PopupTitle="Trabajo en alturas Administrativo"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Trabajo Seguro en Alturas Nivel Basico Operativo.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,140,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Renovacion Trabajo En Alturas"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Renovacion Trabajo En Alturas.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,163,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Coordinacion trabajos en alturas"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Coordinador Trabajos en Alturas.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,186,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Certificacion en probadores de gas"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Certificacion en probadores de gas.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,209,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Calibracion y uso de medidores de gases"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Calibracion y uso de medidores de gases.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,232,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="UE - Levantamiento mecanico de cargas y personas"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Levantamiento de Cargas.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,255,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="UE Lineamientos HSE"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Lineamientos HSE para Trabajos Especiales.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,272,362,38</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Introducción al sistema de aislamiento seguro de plantas"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Introduccion al Sistema de Aislamiento Seguro en Plantas y Equipos  SAS.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,310,362,38</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Manual de Manejo Seguro del Sistema Electrico en Ecopetrol MASE"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Manual de Manejo Seguro del Sistema Electrico en Ecopetrol MASE.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,348,362,38</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="UE Trabajo en Espacio Confinados"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Trabajos en Espacios Confinados en ECOPETROL.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,380,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Conocimientos basicos en normas y estandares de diseño"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Conocimientos Basicos de Normas y Estandares De Diseno.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,481,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Control de Cambios de Planta"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Control de Cambios de Planta.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,504,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Metodologias de Analisis de Peligros de Proceso"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Metodologias de Analisis de Peligros de Proceso.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,527,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Prearranque"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Revision de Seguridad de Pre  Arranque.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,550,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Seguridad de Procesos  Version 2.0"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Seguridad de Procesos  Version 2.0.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,573,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Integridad Operativa  Nivel I"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Integridad Operativa  Nivel I.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,596,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Guia de Analisis de Riesgo de Proceso ECP VST PRO O GT 001"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Guia de Analisis de Riesgo de Proceso ECP VST PRO O GT 001.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,619,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Guia Tecnica Aseguramiento de Calidad de Equipos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Guia Tecnica Aseguramiento de Calidad de Equipos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,642,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Procedimiento identificar componentes y sistemas criticos.pdf"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Procedimiento para Identificar Componentes.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,665,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Guia para integridad mecanica equipos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Guia Tecnica para la Integridad de Equipos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,688,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Revision de Seguridad de Pre  Arranque"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Revision de Seguridad de Pre  Arranque.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,711,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Guia para integridad mecanica equipos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Guia Tecnica para la Integridad de Equipos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,734,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Implementacion de la Informacion de Tecnologia de Proceso"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Implementacion de la Informacion de Tecnologia de Proceso.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,757,362,23</Rectangle>
+</HotSpot>								
+			
+
+</HotSpotData>

@@ -1,0 +1,101 @@
+﻿<HotSpotData>
+<!-- Hotspots del Capítulo 05-112 -->
+<HotSpot										
+		PopupTitle="Fomento del Trabajo Seguro  Limpio y Saludable"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Fomento del Trabajo Seguro  Limpio y Saludable.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,274,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Fomento del Trabajo Seguro Limpio y Saludable virtual"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Fomento del Trabajo Seguro Limpio y Saludable virtual.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,297,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Monitoreo de Atmosferas"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Monitoreo de Atmosferas.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,638,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Control de trabajos -Ejecutores"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Control de trabajos -Ejecutores.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,661,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Control de trabajos -Ejecutores"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Control de trabajos -Ejecutores.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,684,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Inspecciones y Visitas HSE.pdf"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Inspecciones y Visitas HSE.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,707,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Aseguramiento de Comportamientos Basico"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Aseguramiento de Comportamientos Basico.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,730,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Aseguramiento de Comportamientos Requerido"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Aseguramiento de Comportamientos Requerido.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,753,362,23</Rectangle>
+</HotSpot>								
+								
+
+</HotSpotData>

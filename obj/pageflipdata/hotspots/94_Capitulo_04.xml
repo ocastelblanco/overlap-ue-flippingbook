@@ -1,0 +1,136 @@
+﻿<HotSpotData>
+	<!-- Hotspots del Capítulo 04-94 -->									
+<HotSpot										
+		PopupTitle="Conceptos Básicos de Medición"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Conceptos Básicos de Medición.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	147	,	386	,	339	,	24	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Instrumentación y Equipos de Medición de Cantidad y Calidad de Hidrocarburos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Instrumentación y Equipos de Medición de Cantidad y Calidad de Hidrocarburos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	147	,	410	,	339	,	40	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Medición Estática de Hidrocarburos y Biocombustibles"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Medición Estática de Hidrocarburos y Biocombustibles.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	147	,	450	,	339	,	24	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Medición Dinámica de Hidrocarburos Líquidos  Crudos y Refinados"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Medición Dinámica de Hidrocarburos Líquidos  Crudos y Refinados.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	147	,	474	,	339	,	28	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Medición Estática y Dinámica de Gases Licuados del Petróleo GLP"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Medición Estática y Dinámica de Gases Licuados del Petróleo GLP.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	147	,	502	,	339	,	24	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Balances de Cantidad y Gestión Volumétrica en Ecopetrol Conceptos Fundamentales"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Balances de Cantidad y Gestión Volumétrica en Ecopetrol Conceptos Fundamentales.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	147	,	526	,	339	,	46	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Procedimiento de Medición Dinámica"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Procedimiento de Medición Dinámica.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	147	,	572	,	339	,	24	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Procedimientos de Medición Estática"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Procedimientos de Medición Estática.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	147	,	596	,	339	,	24	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Procedimientos de Medición de Gas Natural"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Procedimientos de Medición de Gas Natural.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	147	,	620	,	339	,	24	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Modelo de Gestión Integral de Cadena de Suministro (GICS)"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Modelo de Gestión Integral de Cadena de Suministro (GICS).pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	147	,	644	,	339	,	24	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Modelo Integral de Energía"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Gestion Integral de Riesgos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	147	,	668	,	339	,	24	</Rectangle>
+	</HotSpot>									
+
+</HotSpotData>

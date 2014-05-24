@@ -1,0 +1,160 @@
+﻿<HotSpotData>
+<!-- Hotspots del Capítulo 02-66 -->
+<HotSpot										
+		PopupTitle="Hidrocarburos de Yacimiento y PVT para Ingenieros"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Hidrocarburos de Yacimiento y PVT para Ingenieros.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,233,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Ingeniería de Yacimientos Básica"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Ingeniería de Yacimientos Básica.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,252,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Procesos Eficientes para Estimulación de Pozos - Nivel Básico"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Procesos Eficientes para Estimulación de Pozos - Nivel Básico.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,271,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Evaluacion de Formaciones Una Mirada Hacia la Roca y sus Fluidos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Evaluacion de Formaciones Una Mirada Hacia la Roca y sus Fluidos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,290,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Análisis básico de laboratorio y petrofísica intermedia"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Evaluación Petrofísica Intermedia.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,309,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Caracterizacion de Yacimientos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Caracterizacion de Yacimientos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,328,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Basico de Reservas de Hidrocarburos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Basico de Reservas de Hidrocarburos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,347,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Ingeniería de Yacimientos Básica"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Ingeniería de Yacimientos Básica.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,403,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Análisis de Riesgos e Incertidumbre"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Análisis de Riesgos e Incertidumbre.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,422,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Optimización de la Producción Utilizando Análisis Nodal"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Optimización de la Producción Utilizando Análisis Nodal.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,441,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Estratigrafia"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Estratigrafia.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,460,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Métodos de recobro mejorado"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Métodos de recobro mejorado.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,479,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Petrofisica Avanzada"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Petrofisica Avanzada.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,498,362,19</Rectangle>
+</HotSpot>								
+
+</HotSpotData>

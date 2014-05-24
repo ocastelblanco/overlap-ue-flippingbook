@@ -1,0 +1,231 @@
+﻿<HotSpotData>
+	<!-- Hotspots del Capítulo 02-36 -->
+	<HotSpot
+		PopupTitle="Fundamentos básicos de la industrial del Petroleo"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Fundamentos básicos de la industrial del Petroleo.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,319,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Perforación y mantenimiento de pozos"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Perforación y mantenimiento de pozos.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,338,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Sistemas de Levantamiento Artificial"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Sistemas de Levantamiento Artificial.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,357,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Modelamiento y Simulación de Facilidades (Hysys)"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Modelamiento y Simulación de Facilidades (Hysys).pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,376,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Sistemas de recobro mejorado"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Sistemas de recobro mejorado.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,395,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Medición, tratamiento y fiscalización de crudos"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Tratamiento y Transferencia de Crudos Pesados.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,414,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Fomento del Trabajo Seguro  Limpio y Saludable"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Fomento del Trabajo Seguro  Limpio y Saludable.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,461,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Aseguramiento de Comportamientos Basico"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Aseguramiento de Comportamientos Basico.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,480,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Elementos de protección personal"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Elementos de protección personal.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,499,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Gestión de permisos de trabajo en Ecopetrol"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Gestión de permisos de trabajo en Ecopetrol.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,518,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Metodologias de Analisis de Peligros de Proceso"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Metodologias de Analisis de Peligros de Proceso.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,537,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Sistema de Aislamiento Seguro de Plantas y Equipos"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Sistema de Aislamiento Seguro de Plantas y Equipos.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,556,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Metodología de investigación para solución de problemas"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Metodología de investigación para solución de problemas.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,575,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Sistema de Comando Incidentes"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Sistema de Comando Incidentes.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,594,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Finanzas para no financieros"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Finanzas para no financieros.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,650,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Gestión del conocimiento en Ecopetrol"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Gestión del conocimiento en Ecopetrol.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,669,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Aprendiz LMS"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Aprendiz LMS.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,688,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Cuidado básico de equipos"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Cuidado básico de equipos.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,707,362,19</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Trabajo en equipos"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Trabajo en equipos.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,726,362,19</Rectangle>
+	</HotSpot>
+</HotSpotData>

@@ -1,0 +1,76 @@
+﻿<HotSpotData>
+<!-- Hotspots del Capítulo 05-105 -->
+<HotSpot										
+		PopupTitle="Seguridad de la Informacion en Casa"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Seguridad de la Informacion en Casa.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,210,362,22</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Fundamentos en Planeacion e Implementacion de la Estrategia"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Fundamentos en Planeacion e Implementacion de la Estrategia.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,306,362,22</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Planeacion y Gestion Estrategica"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Planeacion y Gestion Estrategica.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,328,362,22</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Estrategia, Plan de Negocios y Portafolio de Inversiones"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Estrategia, Plan de Negocios y Portafolio de Inversiones.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,350,362,22</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Fundamentos de Estructuracion y Analisis del Plan Financiero"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Fundamentos de Estructuracion y Analisis del Plan Financiero.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,372,362,22</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Gestion de Stakeholders"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Gestion de Stakeholders.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,394,362,22</Rectangle>
+</HotSpot>								
+
+</HotSpotData>

@@ -1,0 +1,150 @@
+﻿<HotSpotData>
+<!-- Hotspots del Capítulo 05-105 -->
+
+<HotSpot										
+		PopupTitle="Contraincendios I"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Contraincendios Basico.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,191,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Contraincendios II"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Contraincendios II.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,214,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Primeros auxilios I"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Primeros auxilios I.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,237,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Primeros Auxilios II"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Primeros Auxilios II.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,260,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Curso Líder de Evacuación"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Curso Lider De Evacuacion.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,283,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Conceptos Básicos de Salud y Trabajo"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Conceptos Basicos de Salud y Trabajo.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,363,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Legislación en Salud Ocupacional"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Legislacion en Salud Ocupacional.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,386,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Higiene Industrial  Basico"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Higiene Industrial  Basico.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,409,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Vigilancia Epidemiologica Ocupacional Nivel I"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Vigilancia Epidemiologica Ocupacional Nivel I.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,432,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Vigilancia Epidemiologica Ocupacional Nivel II"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Vigilancia Epidemiologica Ocupacional Nivel II.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,455,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Primeros Auxilios"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Primeros Auxilios I.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,478,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Beneficios en Salud Industrial"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Beneficios en Salud Industrial.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,501,362,23</Rectangle>
+</HotSpot>								
+								
+
+</HotSpotData>

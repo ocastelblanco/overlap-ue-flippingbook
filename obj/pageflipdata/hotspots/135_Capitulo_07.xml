@@ -1,0 +1,88 @@
+﻿<HotSpotData>
+	<!-- Hotspots del Capítulo 07-135 -->
+<HotSpot										
+		PopupTitle="Autoliderazgo"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Autoliderazgo.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	21	,	351	,	392	,	31	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Liderazgo Situacional II LSII"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Liderazgo Situacional II LSII.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	21	,	382	,	392	,	21	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Feedback y Monitoreo Efectivos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Feedback y Monitoreo Efectivos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	21	,	403	,	392	,	21	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Cambiando Paradigmas  Liderazgo del Cambio"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Cambiando Paradigmas  Liderazgo del Cambio.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	21	,	424	,	392	,	21	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Entrevistas por Eventos Conductuales"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Entrevistas por Eventos Conductuales.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	21	,	477	,	392	,	21	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Liderazgo Movilizador de Alto Desempeno"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Liderazgo Movilizador de Alto Desempeno.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	21	,	498	,	392	,	21	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Relaciones Laborales"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Relaciones Laborales.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	21	,	519	,	392	,	21	</Rectangle>
+	</HotSpot>									
+
+</HotSpotData>

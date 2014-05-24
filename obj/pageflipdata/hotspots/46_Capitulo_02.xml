@@ -18,7 +18,7 @@
 		PopupImageFile=""
 		Opacity="0"
 		HoverOpacity="40"
-		Link="pageflipdata/fichas/Interpretacion de Registros de Produccion.pdf"
+		Link="pageflipdata/fichas/Interpretacion de Registros de Produccion .pdf"
 		Target="_blank"
 		Skip="true"
 		Color="0x000000" >
@@ -54,7 +54,7 @@
 		PopupImageFile=""
 		Opacity="0"
 		HoverOpacity="40"
-		Link="pageflipdata/fichas/Petrofisica Intermedia.pdf"
+		Link="pageflipdata/fichas/Evaluación Petrofísica Intermedia.pdf"
 		Target="_blank"
 		Skip="true"
 		Color="0x000000" >
@@ -66,7 +66,7 @@
 		PopupImageFile=""
 		Opacity="0"
 		HoverOpacity="40"
-		Link="pageflipdata/fichas/Analisis de fluidos y PVT para geologos.pdf"
+		Link="pageflipdata/fichas/Hidrocarburos de Yacimiento y PVT para Geólogos.pdf"
 		Target="_blank"
 		Skip="true"
 		Color="0x000000" >
@@ -174,7 +174,7 @@
 		PopupImageFile=""
 		Opacity="0"
 		HoverOpacity="40"
-		Link="pageflipdata/fichas/Petrofisica Intermedia.pdf"
+		Link="pageflipdata/fichas/Evaluación Petrofísica Intermedia.pdf"
 		Target="_blank"
 		Skip="true"
 		Color="0x000000" >
@@ -186,7 +186,7 @@
 		PopupImageFile=""
 		Opacity="0"
 		HoverOpacity="40"
-		Link="pageflipdata/fichas/Petrofisica Avanzada"
+		Link="pageflipdata/fichas/Petrofisica Avanzada.pdf"
 		Target="_blank"
 		Skip="true"
 		Color="0x000000" >
@@ -198,7 +198,7 @@
 		PopupImageFile=""
 		Opacity="0"
 		HoverOpacity="40"
-		Link="pageflipdata/fichas/Analisis de fluidos y PVT para ingenieros.pdf"
+		Link="pageflipdata/fichas/Hidrocarburos de Yacimiento y PVT para Ingenieros.pdf"
 		Target="_blank"
 		Skip="true"
 		Color="0x000000" >

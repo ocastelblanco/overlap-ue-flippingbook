@@ -1,0 +1,198 @@
+﻿<HotSpotData>
+<!-- Hotspots del Capítulo 05-107 -->
+
+<HotSpot										
+		PopupTitle="Programas y Proyectos en Ecopetrol"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Programas y Proyectos en Ecopetrol.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,212,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Modelo de Maduracion y Gestion de Proyectos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Modelo de Maduracion y Gestion de Proyectos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,235,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Modelo de Maduracion y Gestion de Proyectos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Modelo de Maduracion y Gestion de Proyectos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,258,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Programas y Proyectos en Ecopetrol"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Programas y Proyectos en Ecopetrol.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,281,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Estructuracion de Proyectos Inmobiliarios"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Estructuracion de Proyectos Inmobiliarios.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,304,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Conformacion y Gestion de Equipos de Proyecto Exitosos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Conformacion y Gestion de Equipos de Proyecto Exitosos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,327,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Evaluacion Ex Post de Proyectos de Inversion"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Evaluacion Ex Post de Proyectos de Inversion.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,350,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Evaluacion Financiera de Proyectos de Inversion en la Industria Petrolera Nivel Basico"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Evaluacion Financiera de Proyectos de Inversion en la Industria Petrolera Nivel Basico.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,373,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Evaluacion Financiera de Proyectos de Inversion en la Industria Petrolera Nivel Intermedio"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Evaluacion Financiera de Proyectos de Inversion en la Industria Petrolera Nivel Intermedio.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,396,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Practicas de Incremento de Valor  PIV Nivel Intermedio"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Practicas de Incremento de Valor  PIV Nivel Intermedio.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,419,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Alcance y Programacion en Gestion de Proyectos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Alcance y Programacion en Gestion de Proyectos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,442,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Indice de Definicion del Proyecto"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Indice de Definicion del Proyecto.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,465,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Gestion Integral de Riesgos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Gestion Integral de Riesgos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,557,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Cultura de Procesos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Cultura de Procesos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,580,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Lectura en ARIS"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Lectura en ARIS.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,603,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Analisis Causa Raiz"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Analisis Causa Raiz.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,626,362,23</Rectangle>
+</HotSpot>								
+								
+
+</HotSpotData>

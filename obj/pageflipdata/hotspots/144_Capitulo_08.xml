@@ -1,0 +1,138 @@
+﻿<HotSpotData>
+<!-- Hotspots del Capítulo 05-105 -->
+
+<HotSpot										
+		PopupTitle="Gerencia Integral de Activos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/UEV - Gerencia Integral de Activos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>352,351,220,27</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Métodos de Análisis de Falla"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/UE- Metodos de analisis de falla RCA.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>352,378,220,27</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Conceptos básicos de administración de inventarios bodega"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/UE - Conceptos Basicos Admon Inventarios Bodega.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>352,405,220,38</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Gestión de Inventarios - ADINES"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Gestion de Inventarios ADINES.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>352,443,220,27</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Operación y manejo de Bodegas"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/UE - Operacion y Manejo Bodegas ECP SA.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>352,470,220,27</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="UCE - Formacion Basica en el Sistema de Informacion para el Manejo de Materiales ELLIPSE"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/UCE - Formacion Basica en el Sistema de Informacion para el Manejo de Materiales ELLIPSE.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>352,497,220,54</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="UE - Curso basico de Corrosion"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/UE - Curso basico de Corrosion.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>352,551,220,32</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="UCE - Introduccion a las Paradas de Pits"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/UCE - Introduccion a las Paradas de Pits.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>352,583,220,33</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="UEV - Conceptos Basicos de Bombas Centrifugas"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/UEV - Conceptos Basicos de Bombas Centrifugas.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>352,616,220,40</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="UCV - Bombas de Desplazamiento Positivo"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/UCV - Bombas de Desplazamiento Positivo.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>352,656,220,30</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="UE - Gerenciamiento de Paradas de Planta"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/UE - Gerenciamiento de Paradas de Planta.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>352,686,220,50</Rectangle>
+</HotSpot>								
+					
+
+</HotSpotData>

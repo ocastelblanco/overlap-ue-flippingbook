@@ -1,0 +1,99 @@
+﻿<HotSpotData>
+	<!-- Hotspots del Capítulo 03-80 -->
+	<HotSpot
+		PopupTitle="Medicion Estatica"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Medicion Estatica.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,225,362,31</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Monitoreo Operaciones en el Ducto"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Monitoreo Operaciones en el Ducto.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,256,362,31</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Operacion de Flota Fluvial"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Operacion de Flota Fluvial.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,287,362,31</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Operacion por Carrotanques"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Operacion por Carrotanques.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,318,362,31</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Operaciones de Rutina en un Ducto"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Operaciones de Rutina en un Ducto.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,349,362,31</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Operaciones Marinas y Terminales Petroleros"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Operaciones Marinas y Terminales Petroleros.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,380,362,31</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Principios del  Diseño y Construccion de Estaciones de Bombeo"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Principios del  Diseño y Construccion de Estaciones de Bombeo.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,411,362,50</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Principios del Diseño y Construccion de Oleoductos"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Principios del Diseño y Construccion de Oleoductos.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,461,362,50</Rectangle>
+	</HotSpot>
+</HotSpotData>

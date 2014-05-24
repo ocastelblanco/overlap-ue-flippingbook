@@ -1,0 +1,124 @@
+﻿<HotSpotData>
+	<!-- Hotspots del Capítulo 04-91 -->
+	<HotSpot										
+		PopupTitle="Generalidades Sobre Riesgos Asociados a la Electricidad"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Generalidades Sobre Riesgos Asociados a la Electricidad.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	22	,	172	,	362	,	19	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Generalidades Riesgos del Agua"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Generalidades Riesgos del Agua.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	22	,	191	,	362	,	19	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Generalidades Riesgos del Vapor de Agua"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Generalidades Riesgos del Vapor de Agua.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	22	,	210	,	362	,	19	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Generalidades De Riesgos Asociados a la Parada y Arrancada de Plantas"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Generalidades De Riesgos Asociados a la Parada y Arrancada de Plantas.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	22	,	229	,	362	,	19	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Generalidades Sobre Riesgos Gas Aire Asociados a los Sistemas de Proceso"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Generalidades Sobre Riesgos Gas Aire Asociados a los Sistemas de Proceso.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	22	,	248	,	362	,	43	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Excelencia Operacional y Optimización de Refinerías"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Excelencia Operacional y Optimización de Refinerías.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	22	,	322	,	362	,	19	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Introducción a los Principios Básicos de Lubricación"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Introducción a los Principios Básicos de Lubricación.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	22	,	341	,	362	,	19	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Introducción a Rondas Estructuradas"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Introducción a Rondas Estructuradas.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	22	,	360	,	362	,	19	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Introducción al Cuidado Básico de Equipos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Introducción al Cuidado Básico de Equipos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	22	,	379	,	362	,	19	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Introducción al Proceso de Parada de PITS"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Introducción al Proceso de Parada de PITS.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	22	,	398	,	362	,	19	</Rectangle>
+	</HotSpot>									
+
+</HotSpotData>

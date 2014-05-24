@@ -1,0 +1,198 @@
+﻿<HotSpotData>
+<!-- Hotspots del Capítulo 05-145 -->
+
+<HotSpot										
+		PopupTitle="Alineación de Ejes Fundamentos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Alineación de Ejes Fundamentos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>352,351,220,25</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Bombas Tipos Básicos y Operación"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Generalidades de Bombas.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>352,376,220,25</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Compresores Centrífugo y Axial"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Generalidades de Compresores.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>352,401,220,25</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Compresores de Pistón"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Generalidades de Compresores.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>352,426,220,25</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Maniobras Elevación Básica"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Maniobras Elevación Básica.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>352,451,220,25</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Maniobras Levantamiento Pesado"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Maniobras Levantamiento Pesado.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>352,476,220,25</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Motores Eléctricos Controladores CA1"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Motores Eléctricos Controladores CA1.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>352,501,220,25</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Motores Eléctricos Motores CC"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Motores Eléctricos Motores CC.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>352,526,220,25</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Motores Eléctricos Trifásica"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Motores Eléctricos Trifásica.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>352,551,220,25</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Arquitectura, Tipos y Redes"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Arquitectura, Tipos y Redes.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>352,576,220,25</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Instalación y Mantenimiento"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Instalación y Mantenimiento.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>352,601,220,25</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Sistemas de Batería"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Sistemas de Batería.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>352,626,220,25</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Tubería y Conectores de Tubos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Tubería y Conectores de Tubos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>352,651,220,25</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Tuberías y Conectores de Tubos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Tuberías y Conectores de Tubos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>352,676,220,25</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Tuberias y Válvulas de Seguridad"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Tuberias y Válvulas de Seguridad.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>352,701,220,25</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Tuberías y Válvulas Tipos de Válvula"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Tuberías y Válvulas Tipos de Válvula.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>352,726,220,25</Rectangle>
+</HotSpot>								
+
+
+</HotSpotData>

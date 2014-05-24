@@ -61,6 +61,18 @@
 		<Rectangle>212,194,362,31</Rectangle>
 	</HotSpot>
 	<HotSpot
+		PopupTitle="Fundamentos de Electricidad"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Fundamentos de Electricidad.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>212,225,362,31</Rectangle>
+	</HotSpot>
+	<HotSpot
 		PopupTitle="Fundamentos de Mecánica"
 		PopupText=""
 		PopupImageFile=""
@@ -70,7 +82,7 @@
 		Target="_blank"
 		Skip="true"
 		Color="0x000000" >
-		<Rectangle>212,225,362,31</Rectangle>
+		<Rectangle>212,256,362,31</Rectangle>
 	</HotSpot>
 	<HotSpot
 		PopupTitle="Geotecnia Aplicada a Lineas de Transporte e Hidrocarburos"
@@ -82,7 +94,7 @@
 		Target="_blank"
 		Skip="true"
 		Color="0x000000" >
-		<Rectangle>212,256,362,31</Rectangle>
+		<Rectangle>212,287,362,50</Rectangle>
 	</HotSpot>
 	<HotSpot
 		PopupTitle="Infraestructura de Transporte"
@@ -94,7 +106,7 @@
 		Target="_blank"
 		Skip="true"
 		Color="0x000000" >
-		<Rectangle>212,287,362,50</Rectangle>
+		<Rectangle>212,337,362,31</Rectangle>
 	</HotSpot>
 	<HotSpot
 		PopupTitle="Inyeccion de Egos"
@@ -106,7 +118,7 @@
 		Target="_blank"
 		Skip="true"
 		Color="0x000000" >
-		<Rectangle>212,337,362,31</Rectangle>
+		<Rectangle>212,368,362,31</Rectangle>
 	</HotSpot>
 	<HotSpot
 		PopupTitle="Logistica de Transporte"
@@ -118,7 +130,7 @@
 		Target="_blank"
 		Skip="true"
 		Color="0x000000" >
-		<Rectangle>212,368,362,31</Rectangle>
+		<Rectangle>212,399,362,31</Rectangle>
 	</HotSpot>
 	<HotSpot
 		PopupTitle="Mantenimiento basado en Condición"
@@ -130,7 +142,7 @@
 		Target="_blank"
 		Skip="true"
 		Color="0x000000" >
-		<Rectangle>212,399,362,31</Rectangle>
+		<Rectangle>212,430,362,31</Rectangle>
 	</HotSpot>
 	<HotSpot
 		PopupTitle="Mantenimiento Basado en Confiabilidad"
@@ -142,7 +154,7 @@
 		Target="_blank"
 		Skip="true"
 		Color="0x000000" >
-		<Rectangle>212,430,362,31</Rectangle>
+		<Rectangle>212,461,362,31</Rectangle>
 	</HotSpot>
 	<HotSpot
 		PopupTitle="Marcacion y Control de Perdidas - Hurtos"
@@ -154,7 +166,7 @@
 		Target="_blank"
 		Skip="true"
 		Color="0x000000" >
-		<Rectangle>212,461,362,31</Rectangle>
+		<Rectangle>212,495,362,31</Rectangle>
 	</HotSpot>
 	<HotSpot
 		PopupTitle="Mecanica de Fluidos"
@@ -163,18 +175,6 @@
 		Opacity="0"
 		HoverOpacity="40"
 		Link="pageflipdata/fichas/Mecanica de Fluidos.pdf"
-		Target="_blank"
-		Skip="true"
-		Color="0x000000" >
-		<Rectangle>212,495,362,31</Rectangle>
-	</HotSpot>
-	<HotSpot
-		PopupTitle="Confiabilidad de Equipos"
-		PopupText=""
-		PopupImageFile=""
-		Opacity="0"
-		HoverOpacity="40"
-		Link="pageflipdata/fichas/Confiabilidad de Equipos.pdf"
 		Target="_blank"
 		Skip="true"
 		Color="0x000000" >

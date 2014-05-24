@@ -1,0 +1,197 @@
+﻿<HotSpotData>
+<!-- Hotspots del Capítulo 05-105 -->
+<HotSpot										
+		PopupTitle="Excel Básico"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Excel Basico.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,288,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Excel Intermedio"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Excel Intermedio.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,311,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Excel Avanzado"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Excel Avanzado.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,334,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Macros en Excel"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Macros en Excel.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,357,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Modelos financieros en Excel"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Modelos financieros en Excel.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,380,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Microsoft Excel Básico"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Microsoft Excel Basico.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,403,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Microsoft Excel Intermedio"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Microsoft Excel Intermedio.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,426,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Microsoft Excel Avanzado"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Microsoft Excel Avanzado.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,449,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Creación de Recursos Virtuales SPP"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Creacion de Recursos Virtuales SPP.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,515,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Microsoft PowerPoint básico"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Microsoft Powerpoint Basico.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,538,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Microsoft PowerPoint intermedio"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Microsoft Powerpoint Intermedio.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,561,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Microsoft Outlook básico"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Microsoft Outlook basico.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,584,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Microsoft Outlook intermedio"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Microsoft Outlook intermedio.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,607,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Inducción Corporativa"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Induccion Corporativa.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,715,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Inducción en el puesto"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Induccion en el puesto.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,738,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Conociendo mi empresa"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Conociendo mi empresa.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,761,362,23</Rectangle>
+</HotSpot>								
+			
+
+</HotSpotData>

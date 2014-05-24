@@ -1,0 +1,87 @@
+﻿<HotSpotData>
+	<!-- Hotspots del Capítulo 03-81 -->
+	<HotSpot
+		PopupTitle="Principios Del Diseño Y Construccion De Recipientes A Presion"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Principios Del Diseño Y Construccion De Recipientes A Presion.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>25,225,362,48</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Principios del Diseño y Construccion de Tanques Atmosfericos"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Principios del Diseño y Construccion de Tanques Atmosfericos.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>25,273,362,48</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Simulador VIT"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Simulador VIT.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>25,319,362,31</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Sistema de Control Central SCADA de la VIT"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Sistema de Control Central SCADA de la VIT.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>25,350,362,31</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Sistemas de Deteccion de Fugas"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Sistemas de Deteccion de Fugas.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>25,381,362,31</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Gestion de Balances Volumetricos desde la Operacion Centralizada"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Gestion de Balances Volumetricos desde la Operacion Centralizada.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>25,412,362,48</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Visita Operativa al CCO VIT"
+		PopupText=""
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="40"
+		Link="pageflipdata/fichas/Visita Operativa al CCO VIT.pdf"
+		Target="_blank"
+		Skip="true"
+		Color="0x000000" >
+		<Rectangle>25,462,362,31</Rectangle>
+	</HotSpot>
+</HotSpotData>

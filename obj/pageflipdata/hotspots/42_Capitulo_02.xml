@@ -30,7 +30,7 @@
 		PopupImageFile=""
 		Opacity="0"
 		HoverOpacity="40"
-		Link="pageflipdata/fichas/Mapeo de estructuras.pdf"
+		Link="pageflipdata/fichas/Mapeo de Estructuras.pdf"
 		Target="_blank"
 		Skip="true"
 		Color="0x000000" >
@@ -54,7 +54,7 @@
 		PopupImageFile=""
 		Opacity="0"
 		HoverOpacity="40"
-		Link="pageflipdata/fichas/Petrofisica Intermedia.pdf"
+		Link="pageflipdata/fichas/Evaluación Petrofísica Intermedia.pdf"
 		Target="_blank"
 		Skip="true"
 		Color="0x000000" >
@@ -90,7 +90,7 @@
 		PopupImageFile=""
 		Opacity="0"
 		HoverOpacity="40"
-		Link="pageflipdata/fichas/Modelamiento estructural.pdf"
+		Link="pageflipdata/fichas/Modelamiento Estructural.pdf"
 		Target="_blank"
 		Skip="true"
 		Color="0x000000" >

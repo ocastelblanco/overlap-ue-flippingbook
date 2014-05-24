@@ -1,0 +1,208 @@
+﻿<HotSpotData>
+<!-- Hotspots del Capítulo 02-55 -->
+<HotSpot										
+		PopupTitle="SLA - Bombeo Electrosumergible"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/SLA - Bombeo Electrosumergible.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,232,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="SLA - Bombeo de Cavidades Progresivas"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/SLA - Bombeo de Cavidades Progresivas.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,251,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="SLA - Bombeo Mecanico"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/SLA - Bombeo Mecanico.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,270,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Pasantía en Laboratorio de Metrología"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Pasantía en Laboratorio de Metrología.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,289,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Pasantía en Laboratorio de Pruebas de Caracterización de Crudos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Pasantía en Laboratorio de Pruebas de Caracterización de Crudos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,308,362,38</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Procedimiento de Medición Dinámica"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Procedimiento de Medición Dinámica.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,346,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Procedimientos de Medición Estática"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Procedimientos de Medición Estática.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,365,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Instrumentación y Equipos de Medición de Cantidad y Calidad de Hidrocarburos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Instrumentación y Equipos de Medición de Cantidad y Calidad de Hidrocarburos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,384,362,38</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Sistemas de Bombeo y Compresión de Crudo y Gas"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Sistemas de Bombeo y Compresión de Crudo y Gas.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,422,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Simulación de Sistemas de Tubería de Transporte, y Operaciones Downhole con Pipephase"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Simulación de Sistemas de Tubería de Transporte, y Operaciones Downhole con Pipephase.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,479,362,38</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Análisis de Riesgos e Incertidumbre"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Análisis de Riesgos e Incertidumbre.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,517,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Estructuración de Modelos Financieros"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Estructuración de Modelos Financieros.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,536,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Optimización de la Producción Utilizando Análisis Nodal"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Optimización de la Producción Utilizando Análisis Nodal.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,555,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Economía y Toma De Decisiones en Proyectos de E&P"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Economía y Toma De Decisiones en Proyectos de E&P.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,574,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Aspectos Juridicos Ambientales"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Aspectos Juridicos Ambientales.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,593,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Modelo de Gestión Integral de Cadena de Suministro (GICS)"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Modelo de Gestión Integral de Cadena de Suministro (GICS).pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,612,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Modelo Integral de Energía"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Modelo Integral de Energía.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,631,362,19</Rectangle>
+</HotSpot>								
+
+</HotSpotData>

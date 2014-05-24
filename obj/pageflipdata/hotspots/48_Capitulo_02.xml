@@ -1,0 +1,208 @@
+﻿<HotSpotData>
+	<!-- Hotspots del Capítulo 04-48 -->
+	<HotSpot										
+		PopupTitle="Estratigrafia Sismica"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Estratigrafia Sismica.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+		<Rectangle>212,235,362,20	</Rectangle>
+	</HotSpot>								
+<HotSpot										
+		PopupTitle="Estratigrafia de Secuencias"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Estratigrafia de Secuencias.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+		<Rectangle>212,255,362,20	</Rectangle>
+	</HotSpot>								
+<HotSpot										
+		PopupTitle="Herramientas geoquímicas"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Herramientas Geoquímicas.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+		<Rectangle>212,275,362,20	</Rectangle>
+	</HotSpot>								
+<HotSpot										
+		PopupTitle="Estilos Estructurales"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Estilos Estructurales.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+		<Rectangle>212,295,362,20	</Rectangle>
+	</HotSpot>								
+<HotSpot										
+		PopupTitle="Análisis Básico de Producción"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Análisis Básico de Producción.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+		<Rectangle>212,315,362,20	</Rectangle>
+	</HotSpot>								
+<HotSpot										
+		PopupTitle="Petrofisica Avanzada"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Petrofisica Avanzada.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+		<Rectangle>212,335,362,20	</Rectangle>
+	</HotSpot>								
+<HotSpot										
+		PopupTitle="Modelamiento estructural"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Modelamiento Estructural.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+		<Rectangle>212,387,362,20	</Rectangle>
+	</HotSpot>								
+<HotSpot										
+		PopupTitle="Estilos Estructurales"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Estilos Estructurales.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+		<Rectangle>212,522,362,20	</Rectangle>
+	</HotSpot>								
+<HotSpot										
+		PopupTitle="Interpretacion Sismica Estructural"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Interpretacion Sismica Estructural.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+		<Rectangle>212,542,362,20	</Rectangle>
+	</HotSpot>								
+<HotSpot										
+		PopupTitle="Estratigrafia Sismica"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Estratigrafia Sismica.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+		<Rectangle>212,562,362,20	</Rectangle>
+	</HotSpot>								
+<HotSpot										
+		PopupTitle="Análisis Básico de Producción"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Análisis Básico de Producción.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+		<Rectangle>212,582,362,20	</Rectangle>
+	</HotSpot>								
+<HotSpot										
+		PopupTitle="Caracterizacion de Yacimientos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Caracterizacion de Yacimientos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+		<Rectangle>212,602,362,20	</Rectangle>
+	</HotSpot>								
+<HotSpot										
+		PopupTitle="Petrofisica Avanzada"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Petrofisica Avanzada.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+		<Rectangle>212,622,362,20	</Rectangle>
+	</HotSpot>								
+<HotSpot										
+		PopupTitle="Evaluacion de Prospectos y Plays"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Evaluacion de Prospectos y Plays.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+		<Rectangle>212,673,362,20	</Rectangle>
+	</HotSpot>								
+<HotSpot										
+		PopupTitle="Principios y Aplicaciones de AVO  Inversion y Atributos Sismicos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Principios y Aplicaciones de AVO  Inversion y Atributos Sismicos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+		<Rectangle>212,693,362,20	</Rectangle>
+	</HotSpot>								
+<HotSpot										
+		PopupTitle="Petrofisica Avanzada"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Petrofisica Avanzada.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+		<Rectangle>212,713,362,20	</Rectangle>
+	</HotSpot>								
+<HotSpot										
+		PopupTitle="Modelamiento estructural"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Modelamiento Estructural.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+		<Rectangle>212,733,362,20	</Rectangle>
+	</HotSpot>								
+
+</HotSpotData>

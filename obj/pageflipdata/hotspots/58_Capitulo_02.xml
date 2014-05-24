@@ -1,0 +1,268 @@
+﻿<HotSpotData>
+<!-- Hotspots del Capítulo 02-58 -->
+<HotSpot										
+		PopupTitle="Análisis Básico de Producción"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Análisis Básico de Producción.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,265,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Análisis Avanzado de Producción"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Análisis Avanzado de Producción.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,284,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Geomecánica Aplicada a la Industria del Petróleo"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Geomecánica Aplicada a la Industria del Petróleo.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,303,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Cementación de Pozos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Cementación de Pozos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,322,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Ingeniería de Yacimientos Básica"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Ingeniería de Yacimientos Básica.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,341,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Registros Eléctricos en Hueco Abierto y Entubado"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Registros Eléctricos en Hueco Abierto y Entubado.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,360,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Procesos Eficientes para Estimulación de Pozos - Nivel Básico"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Procesos Eficientes para Estimulación de Pozos - Nivel Básico.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,379,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Fracturamiento Hidráulico Avanzado"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Fracturamiento Hidráulico Avanzado.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,398,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Materiales de ingenieria aplicados en la optimización de sistemas de producción"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Materiales de Ingenieria Aplicados en la Optimizacion de Sistemas de Produccion.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,417,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Materiales de ingenieria aplicados en la optimización de sistemas de producción"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Materiales De Ingeniería Aplicados En La Optimización De Sistemas De Producción.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,436,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Hidrocarburos de Yacimiento y PVT para Ingenieros"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Hidrocarburos de Yacimiento y PVT para Ingenieros.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,455,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Análisis de Riesgos e Incertidumbre"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Análisis de Riesgos e Incertidumbre.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,474,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Economía y Toma De Decisiones en Proyectos de E&P"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Economía y Toma De Decisiones en Proyectos de E&P.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,527,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Introducción a la planificación del desarrollo de un campo petrolero"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Introduccion a La Planificacion del Desarrollo de un Campo Petrolero.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,546,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Introducción a la planificación del desarrollo de un campo petrolero"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Introduccion a La Planificacion del Desarrollo de un Campo Petrolero.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,565,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Estimulación y Completamiento de Pozos Horizontales y Multilaterales"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Estimulación y Completamiento de Pozos Horizontales y Multilaterales.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,584,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Estimulación y Completamiento de Pozos Horizontales y Multilaterales"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Estimulación y Completamiento de Pozos Horizontales y Multilaterales.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,603,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Contratación y Negociación Petrolera"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Contratación y Negociación Petrolera.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,622,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Estructuración de Modelos Financieros"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Estructuración de Modelos Financieros.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,641,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Aspectos Juridicos Ambientales"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Aspectos Juridicos Ambientales.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,660,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Modelo integral de energía"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Modelo integral de energía.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,679,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Daños a la Formación"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Daños a la Formación.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,698,362,19</Rectangle>
+</HotSpot>								
+
+</HotSpotData>

@@ -42,7 +42,7 @@
 		PopupImageFile=""
 		Opacity="0"
 		HoverOpacity="40"
-		Link="pageflipdata/fichas/Depositos Carbonatados.pdf"
+		Link="pageflipdata/fichas/Depósitos Carbonatados.pdf"
 		Target="_blank"
 		Skip="true"
 		Color="0x000000" >
@@ -66,7 +66,7 @@
 		PopupImageFile=""
 		Opacity="0"
 		HoverOpacity="40"
-		Link="pageflipdata/fichas/Petrofisica Intermedia.pdf"
+		Link="pageflipdata/fichas/Evaluación Petrofísica Intermedia.pdf"
 		Target="_blank"
 		Skip="true"
 		Color="0x000000" >

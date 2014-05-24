@@ -1,0 +1,137 @@
+﻿<HotSpotData>
+	<!-- Hotspots del Capítulo 04-93 -->
+<HotSpot										
+		PopupTitle="Genérico Unidad de Hidrocracking (U110)  Refinería de Cartagena Modernizada"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Genérico Unidad de Hidrocracking (U110)  Refinería de Cartagena Modernizada.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	22	,	286	,	262	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Genérico Unidad Bloque de Azufre 1 (U120)  Refinería de Cartagena Modernizada"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Genérico Unidad Bloque de Azufre 1 (U120)  Refinería de Cartagena Modernizada.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	22	,	309	,	262	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Genérico Unidad de Alquilación Con HF (U044)  Refinería de Cartagena Modernizada"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Genérico Unidad de Alquilación Con HF (U044)  Refinería de Cartagena Modernizada.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	22	,	332	,	262	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Genérico Unidad de Coquización Retardada (U111)  Refinería de Cartagena Modernizada"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Genérico Unidad de Coquización Retardada (U111)  Refinería de Cartagena Modernizada.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	22	,	355	,	262	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Genérico Unidad de Gas Saturado e Isomerización de Butano Refinería de Cartagena Modernizada"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Genérico Unidad de Gas Saturado e Isomerización de Butano Refinería de Cartagena Modernizada.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	22	,	378	,	262	,	46	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Genérico Unidad de Generación de Hidrogeno 1 (U115)  Refinería de Cartagena Modernizada"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Genérico Unidad de Generación de Hidrogeno 1 (U115)  Refinería de Cartagena Modernizada.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	22	,	424	,	262	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Genérico Unidad de Hidrotratamiento de Nafta de Cracking (U  107)  Refinería de Cartagena Modernizada"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Genérico Unidad de Hidrotratamiento de Nafta de Cracking (U  107)  Refinería de Cartagena Modernizada.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	22	,	447	,	262	,	46	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Genérico Unidad de Tratamiento de Aguas Industriales (U143) Refinería de Cartagena Modernizada"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Genérico Unidad de Tratamiento de Aguas Industriales (U143) Refinería de Cartagena Modernizada.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	22	,	493	,	262	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Genérico Unidad de Tratamiento de Aguas Y TAES (U131) Refinería de Cartagena Modernizada"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Genérico Unidad de Tratamiento de Aguas Y TAES (U131) Refinería de Cartagena Modernizada.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	22	,	516	,	262	,	22	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Genérico Unidad Destilación Combinada (Atmosférica Y Vacío) Refinería de Cartagena Modernizada"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Genérico Unidad Destilación Combinada (Atmosférica Y Vacío) Refinería de Cartagena Modernizada.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	22	,	538	,	262	,	48	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Genérico Unidad Hidrotratamiento de Diesel (U108)  Refinería de Cartagena Modernizada"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Genérico Unidad Hidrotratamiento de Diesel (U108)  Refinería de Cartagena Modernizada.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	22	,	586	,	262	,	25	</Rectangle>
+	</HotSpot>									
+								
+
+</HotSpotData>

@@ -1,0 +1,172 @@
+﻿<HotSpotData>
+<!-- Hotspots del Capítulo 04-49 -->
+<HotSpot										
+		PopupTitle="Caracterizacion de Yacimientos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Caracterizacion de Yacimientos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,267,362,20</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Estratigrafia Sismica"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Estratigrafia Sismica.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,287,362,20</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Estratigrafia de Secuencias"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Estratigrafia de Secuencias.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,307,362,20</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Bioestratigrafia Aplicada"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Bioestratigrafia Aplicada.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,327,362,20</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Análisis Básico de Producción"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Análisis Básico de Producción.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,347,362,20</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Petrofisica Avanzada"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Petrofisica Avanzada.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,367,362,20</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Depositos Siliciclasticos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Depositos Siliciclasticos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,420,362,20</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Depositos carbonatados"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Depósitos Carbonatados.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,440,362,20</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Petrofisica Avanzada"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Petrofisica Avanzada.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,533,362,20</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Registros Eléctricos en Hueco Abierto y Entubado"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Registros Eléctricos en Hueco Abierto y Entubado.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,553,362,20</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Interpretacion de Registros de Produccion "					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Interpretacion de Registros de Produccion .pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,573,362,20</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Análisis Básico de Producción"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Análisis Básico de Producción.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,593,362,20</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Petrofisica Avanzada"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Petrofisica Avanzada.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,646,362,20</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Petrofisica Avanzada"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Petrofisica Avanzada.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,666,362,20</Rectangle>
+</HotSpot>								
+
+</HotSpotData>

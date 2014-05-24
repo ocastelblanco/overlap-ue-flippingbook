@@ -1,0 +1,136 @@
+﻿<HotSpotData>
+<!-- Hotspots del Capítulo 02-65 -->
+<HotSpot										
+		PopupTitle="Hidrocarburos de Yacimiento y PVT para Ingenieros"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Hidrocarburos de Yacimiento y PVT para Ingenieros.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,298,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Evaluacion de Formaciones Una Mirada Hacia la Roca y sus Fluidos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Evaluacion de Formaciones Una Mirada Hacia la Roca y sus Fluidos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,317,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Análisis básico de laboratorio y petrofísica intermedia"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Análisis básico de laboratorio y petrofísica intermedia.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,336,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Caracterizacion de Yacimientos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Caracterizacion de Yacimientos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,355,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Básico de reservas"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Basico de Reservas de Hidrocarburos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,374,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Ingeniería de Yacimientos Básica"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Ingeniería de Yacimientos Básica.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,429,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Estratigrafia"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Estratigrafia.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,448,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Métodos de recobro mejorado"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Métodos de recobro mejorado.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,467,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Inyección de agua concepto y aplicaciones"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Inyección De Agua Concepto Y Aplicaciones.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,486,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Fracturamiento Hidráulico Avanzado"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Fracturamiento Hidráulico Avanzado.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,505,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Análisis de Riesgos e Incertidumbre"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Análisis de Riesgos e Incertidumbre.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,524,362,19</Rectangle>
+</HotSpot>								
+
+</HotSpotData>

@@ -1,0 +1,136 @@
+﻿<HotSpotData>
+	<!-- Hotspots del Capítulo 05-105 -->
+<HotSpot										
+		PopupTitle="Formacion Evaluadores Integrales"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Formacion Evaluadores Integrales.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	212	,	336	,	363	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Gestion Estrategica de Costos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Gestion Estrategica de Costos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	212	,	411	,	363	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Fundamentos de Estructuracion y Analisis del Plan Financiero"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Fundamentos de Estructuracion y Analisis del Plan Financiero.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	212	,	434	,	363	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Estimacion Detallada de Costos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Estimacion Detallada de Costos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	212	,	457	,	363	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Gestion de Contratos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Gestion de Contratos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	212	,	528	,	363	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Impuestos para la Gestion de Contratacion"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Impuestos para la Gestion de Contratacion.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	212	,	551	,	363	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Gerencia de Abastecimiento"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Gerencia de Abastecimiento.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	212	,	574	,	363	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Comite Evaluadores de Oferta"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Comite Evaluadores de Oferta.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	212	,	597	,	363	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Gestion de Proveedores"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Gestion de Proveedores.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	212	,	620	,	363	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Gestion de Inventarios ADINES"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Gestion de Inventarios ADINES.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	212	,	643	,	363	,	41	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Planeacion y Estructuracion de Procesos de Contratacion"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Planeacion y Estructuracion de Procesos de Contratacion.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >								
+		<Rectangle>	212	,	684	,	363	,	28	</Rectangle>
+	</HotSpot>									
+
+</HotSpotData>

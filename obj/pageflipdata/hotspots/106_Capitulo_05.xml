@@ -1,0 +1,173 @@
+﻿<HotSpotData>
+<!-- Hotspots del Capítulo 05-106 -->
+<HotSpot										
+		PopupTitle="Compensacion y Beneficio"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Compensacion y Beneficio.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,211,362,22</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Gestores de Tiempos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Gestores de Tiempos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,233,362,22</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Lecciones Aprendidas"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Lecciones Aprendidas.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,255,362,22</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Aspectos Juridicos Ambientales"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Aspectos Juridicos Ambientales.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,323,362,22</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Presentaciones Efectivas"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Presentaciones Efectivas.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,393,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Presentaciones de Alto Impacto"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Presentaciones de Alto Impacto.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,416,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Presentaciones Gerenciales de Alto Impacto"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Presentaciones Gerenciales de Alto Impacto.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,439,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Redacción y presentación de textos técnicos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Redaccion Eficaz.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,462,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Redaccion de Textos Juridicos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Redaccion de Textos Juridicos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,485,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Redaccion Eficaz"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Redaccion Eficaz.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,508,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Administracion de Comunicaciones Oficiales ECP"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Administracion de Comunicaciones Oficiales ECP.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,531,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Formacion en Competencias de Comunicacion para Voceros de Ecopetrol"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Formacion en Competencias de Comunicacion para Voceros de Ecopetrol.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,554,362,38</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="La Gestion de las Relaciones y Experiencias con los Clientes"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/La Gestion de las Relaciones y Experiencias con los Clientes.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,648,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Plan de Servicios y Relaciones con los Clientes"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Plan de Servicios y Relaciones con los Clientes.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,671,362,23</Rectangle>
+</HotSpot>								
+							
+
+</HotSpotData>

@@ -1,0 +1,124 @@
+﻿<HotSpotData>
+<!-- Hotspots del Capítulo 02-64 -->
+<HotSpot										
+		PopupTitle="Hidrocarburos de Yacimiento y PVT para Ingenieros"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Hidrocarburos de Yacimiento y PVT para Ingenieros.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,233,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Diseño y análisis de pruebas en pozo"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Diseño y análisis de pruebas en pozo.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,252,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Evaluacion de Formaciones Una Mirada Hacia la Roca y sus Fluidos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Evaluacion de Formaciones Una Mirada Hacia la Roca y sus Fluidos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,271,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Caracterizacion de Yacimientos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Caracterizacion de Yacimientos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,290,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Básico de reservas"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Basico de Reservas de Hidrocarburos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,309,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Ingeniería de Yacimientos Básica"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Ingeniería de Yacimientos Básica.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,365,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Geoquímica del petróleo"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Geoquímica del petróleo.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,384,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Modelamiento termodinámico para precipitación de sólidos (aseguramiento del Flujo)"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Modelamiento Termodinámico Para Precipitación De Sólidos (Aseguramiento Del Flujo).pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,403,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Modelamiento termodinámico para precipitación de sólidos (aseguramiento del Flujo)"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Modelamiento Termodinamico para Precipitacion de Solidos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,422,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Análisis de Riesgos e Incertidumbre"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Análisis de Riesgos e Incertidumbre.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,441,362,19</Rectangle>
+</HotSpot>								
+
+</HotSpotData>

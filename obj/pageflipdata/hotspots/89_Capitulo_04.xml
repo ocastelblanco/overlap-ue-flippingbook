@@ -1,0 +1,268 @@
+﻿<HotSpotData>
+	<!-- Hotspots del Capítulo 04-89 -->
+	<HotSpot										
+		PopupTitle="Qué es un proceso Conceptos Generales"								
+		PopupText=""								
+		PopupImageFile=""								
+		Opacity="0"								
+		HoverOpacity="40"								
+		Link="pageflipdata/fichas/Qué es un proceso Conceptos Generales.pdf"								
+		Target="_blank"								
+		Skip="true"								
+		Color="0x000000" >								
+		<Rectangle>	212	,	172	,	362	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Calidad del Petróleo Crudo"								
+		PopupText=""								
+		PopupImageFile=""								
+		Opacity="0"								
+		HoverOpacity="40"								
+		Link="pageflipdata/fichas/Calidad del Petróleo Crudo.pdf"								
+		Target="_blank"								
+		Skip="true"								
+		Color="0x000000" >								
+		<Rectangle>	212	,	195	,	362	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Conceptos Básicos de Medición"								
+		PopupText=""								
+		PopupImageFile=""								
+		Opacity="0"								
+		HoverOpacity="40"								
+		Link="pageflipdata/fichas/Conceptos Básicos de Medición.pdf"								
+		Target="_blank"								
+		Skip="true"								
+		Color="0x000000" >								
+		<Rectangle>	212	,	218	,	362	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Conceptos Básicos de Química"								
+		PopupText=""								
+		PopupImageFile=""								
+		Opacity="0"								
+		HoverOpacity="40"								
+		Link="pageflipdata/fichas/Conceptos Básicos de Química.pdf"								
+		Target="_blank"								
+		Skip="true"								
+		Color="0x000000" >								
+		<Rectangle>	212	,	241	,	362	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Herramientas Estadísticas Aplicadas a la Calidad"								
+		PopupText=""								
+		PopupImageFile=""								
+		Opacity="0"								
+		HoverOpacity="40"								
+		Link="pageflipdata/fichas/Herramientas Estadísticas Aplicadas a la Calidad.pdf"								
+		Target="_blank"								
+		Skip="true"								
+		Color="0x000000" >								
+		<Rectangle>	212	,	264	,	362	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Proceso de Inspección de la Calidad"								
+		PopupText=""								
+		PopupImageFile=""								
+		Opacity="0"								
+		HoverOpacity="40"								
+		Link="pageflipdata/fichas/Proceso de Inspección de la Calidad.pdf"								
+		Target="_blank"								
+		Skip="true"								
+		Color="0x000000" >								
+		<Rectangle>	212	,	287	,	362	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Propiedades Físicas y Químicas de los Derivados del Petróleo"								
+		PopupText=""								
+		PopupImageFile=""								
+		Opacity="0"								
+		HoverOpacity="40"								
+		Link="pageflipdata/fichas/Propiedades Físicas y Químicas de los Derivados del Petróleo.pdf"								
+		Target="_blank"								
+		Skip="true"								
+		Color="0x000000" >								
+		<Rectangle>	212	,	310	,	362	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Sistemas de Unidades"								
+		PopupText=""								
+		PopupImageFile=""								
+		Opacity="0"								
+		HoverOpacity="40"								
+		Link="pageflipdata/fichas/Sistemas de Unidades.pdf"								
+		Target="_blank"								
+		Skip="true"								
+		Color="0x000000" >								
+		<Rectangle>	212	,	333	,	362	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Cultura de Procesos"								
+		PopupText=""								
+		PopupImageFile=""								
+		Opacity="0"								
+		HoverOpacity="40"								
+		Link="pageflipdata/fichas/Cultura de Procesos.pdf"								
+		Target="_blank"								
+		Skip="true"								
+		Color="0x000000" >								
+		<Rectangle>	212	,	356	,	362	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Generalidades de Bombas"								
+		PopupText=""								
+		PopupImageFile=""								
+		Opacity="0"								
+		HoverOpacity="40"								
+		Link="pageflipdata/fichas/Generalidades de Bombas.pdf"								
+		Target="_blank"								
+		Skip="true"								
+		Color="0x000000" >								
+		<Rectangle>	212	,	408	,	362	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Generalidades de Compresores"								
+		PopupText=""								
+		PopupImageFile=""								
+		Opacity="0"								
+		HoverOpacity="40"								
+		Link="pageflipdata/fichas/Generalidades de Compresores.pdf"								
+		Target="_blank"								
+		Skip="true"								
+		Color="0x000000" >								
+		<Rectangle>	212	,	431	,	362	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Generalidades de Hornos"								
+		PopupText=""								
+		PopupImageFile=""								
+		Opacity="0"								
+		HoverOpacity="40"								
+		Link="pageflipdata/fichas/Generalidades de Hornos.pdf"								
+		Target="_blank"								
+		Skip="true"								
+		Color="0x000000" >								
+		<Rectangle>	212	,	454	,	362	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Generalidades de Intercambiadores de Calor"								
+		PopupText=""								
+		PopupImageFile=""								
+		Opacity="0"								
+		HoverOpacity="40"								
+		Link="pageflipdata/fichas/Generalidades de Intercambiadores de Calor.pdf"								
+		Target="_blank"								
+		Skip="true"								
+		Color="0x000000" >								
+		<Rectangle>	212	,	477	,	362	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Generalidades de Los Equipos de Tratamiento de Aguas y Generación Eléctrica"								
+		PopupText=""								
+		PopupImageFile=""								
+		Opacity="0"								
+		HoverOpacity="40"								
+		Link="pageflipdata/fichas/Generalidades de Los Equipos de Tratamiento de Aguas y Generación Eléctrica.pdf"								
+		Target="_blank"								
+		Skip="true"								
+		Color="0x000000" >								
+		<Rectangle>	212	,	500	,	362	,	46	</Rectangle>
+	</HotSpot>											
+<HotSpot										
+		PopupTitle="Generalidades De Riesgos Asociados a la Parada y Arrancada de Plantas"								
+		PopupText=""								
+		PopupImageFile=""								
+		Opacity="0"								
+		HoverOpacity="40"								
+		Link="pageflipdata/fichas/Generalidades De Riesgos Asociados a la Parada y Arrancada de Plantas.pdf"								
+		Target="_blank"								
+		Skip="true"								
+		Color="0x000000" >								
+		<Rectangle>	212	,	546	,	362	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Generalidades de Tanques de Almacenamiento"								
+		PopupText=""								
+		PopupImageFile=""								
+		Opacity="0"								
+		HoverOpacity="40"								
+		Link="pageflipdata/fichas/Generalidades de Tanques de Almacenamiento.pdf"								
+		Target="_blank"								
+		Skip="true"								
+		Color="0x000000" >								
+		<Rectangle>	212	,	569	,	362	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Generalidades de Torres y Tambores"								
+		PopupText=""								
+		PopupImageFile=""								
+		Opacity="0"								
+		HoverOpacity="40"								
+		Link="pageflipdata/fichas/Generalidades de Torres y Tambores.pdf"								
+		Target="_blank"								
+		Skip="true"								
+		Color="0x000000" >								
+		<Rectangle>	212	,	592	,	362	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Generalidades de Tuberías y sus Accesorios"								
+		PopupText=""								
+		PopupImageFile=""								
+		Opacity="0"								
+		HoverOpacity="40"								
+		Link="pageflipdata/fichas/Generalidades de Tuberías y sus Accesorios.pdf"								
+		Target="_blank"								
+		Skip="true"								
+		Color="0x000000" >								
+		<Rectangle>	212	,	615	,	362	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Generalidades de Turbinas y Motores (Eléctricos Y Diesel)"								
+		PopupText=""								
+		PopupImageFile=""								
+		Opacity="0"								
+		HoverOpacity="40"								
+		Link="pageflipdata/fichas/Generalidades de Turbinas y Motores (Eléctricos Y Diesel).pdf"								
+		Target="_blank"								
+		Skip="true"								
+		Color="0x000000" >								
+		<Rectangle>	212	,	638	,	362	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Generalidades de Válvulas"								
+		PopupText=""								
+		PopupImageFile=""								
+		Opacity="0"								
+		HoverOpacity="40"								
+		Link="pageflipdata/fichas/Generalidades de Válvulas.pdf"								
+		Target="_blank"								
+		Skip="true"								
+		Color="0x000000" >								
+		<Rectangle>	212	,	661	,	362	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Nociones de Diagramas de Instrumentación"								
+		PopupText=""								
+		PopupImageFile=""								
+		Opacity="0"								
+		HoverOpacity="40"								
+		Link="pageflipdata/fichas/Nociones de Diagramas de Instrumentación.pdf"								
+		Target="_blank"								
+		Skip="true"								
+		Color="0x000000" >								
+		<Rectangle>	212	,	684	,	362	,	23	</Rectangle>
+	</HotSpot>									
+<HotSpot										
+		PopupTitle="Nociones sobre Instrumentos de Medición"								
+		PopupText=""								
+		PopupImageFile=""								
+		Opacity="0"								
+		HoverOpacity="40"								
+		Link="pageflipdata/fichas/Nociones sobre Instrumentos de Medición.pdf"								
+		Target="_blank"								
+		Skip="true"								
+		Color="0x000000" >								
+		<Rectangle>	212	,	707	,	362	,	23	</Rectangle>
+	</HotSpot>									
+
+</HotSpotData>

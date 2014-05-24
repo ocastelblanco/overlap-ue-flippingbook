@@ -1,7 +1,7 @@
 ﻿<PageflipDataSet>
 <Settings
 	
-	CopyrightMessage="88C1F4F548398C7320B4340428387FE9B621FB0EBF5AC21C87508795A8D9201D75872405383FEC70F0C864F4384CA48E35BA6FDEA422D2161DC25B940F57DC8CA8C2FB0E672AE41D2050DCCB6841FC8530C977833F4272EDB6FEFB753E3273B937D24A95ECD9311C1050CB14A83FE46CB7B97B1EAFD5619D30C1F4FCBBA57386B731FAFE3F7572ED35BA6CA12DD9DB1C1051B9CB6841FC7CB8B123EEAFD2EA86165A6ECE954AC21D3189440428387C82032DFB863FCA730EEFAA6B9EA642D2162A8A51068ED9FD4500C0E4F4384ECFE9B6BA7B1EAFD2E426165A60EEA202E3161DCDE915B8497C74334F7B1EAFD54F1DA851EC952001CC7CB8C2FB0E3F537276B71FFB313F4272EDEFA26C95A8D8544508C2FB0E6502D6562A8A5EDEA3154F1C54519794DCD9204500C424F438376F0BB6BA7B1EAFD2E426165A60EEA202E3161DCDE915B8497C74334F7B1EAFD72B1C0F51A89498D9FD63C76D59136F37F318DA6019F3BFD4962BE7AE7B8F8C579274C6A264B0D941815E207F3C0D4F07CC5BE7BF7B9052E230985194E7A56A562C30C50944D0D930830704D0B3EA3AEA72A9B71FFB533F53BE89B68A54F4304A7386B7DBFAFE3F9773B9B7CAFA65672AE41D2050DCCD804A7386D1DC950F6DD6EB2C80AE7BA184D48499F8B1FA65BD32E2061CBC0CEB4D1ACE7C08C7E9D6A9096D7B367F4F813E22B1E7DA61C30D4E2ADA2CA2AB4A808B477030C75C66D0D941815E2D41E5F3BD09EE5BD6AC5A804042D08851CB2AE6A907707802FB5910D94F611A2F6F1AFD5DD6DE6B6F504395ECD8DC1D31A707B665059443E37221C24E12C0C6ED8E93CFABFAAE99838C77616A54F490/6694"
+	CopyrightMessage="BBC1F4F548398C7320B4340428387FE9B621FB0EBF5AC21C87508795A8D9201D75872405383FEC70F0C864F4384CA48E35BA6FDEA422D2161DC25B940F57DC8CA8C2FB0E672AE41D2050DCCB6841FC8530C977833F4272EDB6FEFB753E3273B937D24A95ECD9311C1050CB14A83FE46CB7B97B1EAFD5619D30C1F4FCBBA57386B731FAFE3F7572ED35BA6CA12DD9DB1C1051B9CB6841FC7CB8B123EEAFD2EA86165A6ECE954AC21D3189440428387C82032DFB863FCA730EEFAA6B9EA642D2162A8A51068ED9FD4500C0E4F4384ECFE9B6BA7B1EAFD2E426165A60EEA202E3161DCDE915B8497C74334F7B1EAFD54F1DA851EC952001CC7CB8C2FB0E3F537276B71FFB313F4272EDEFA26C95A8D8544508C2FB0E6502D6562A8A5EDEA3154F1C54519794DCD9204500C424F438376F0BB6BA7B1EAFD2E426165A60EEA202E3161DCDE915B8497C74334F7B1EAFD54F9C20C1F4F658387C8428A0FA323F7572BAB70EFB1F83C2D1062B9A5A9EA0E74D87E6A2470480429EB712A04C0E5A73CF8BF8C909D68A385D7B375C1EA52926F31804D1E5018DD6CF8C08CA163F341A962A5F8B67B673D41D61A55E1EA41941815E1C4FB4BFB83BAC8200C644064CF9AC79B6505415B8497C8EC0B0F40A884CAC8DB0B76783BF52E3161EDDE915B8497E2EDA6107EE7FC3D91BF8CB295E595AA09C20B76CE43F3172DCD1DFC5E2BDF8D19D8FAE7BA1A7E8C478050924F33C2F8EB72D41E5F3BEB3DB3BC5B919C588141D86D77E1EA52926F3E52F604CE1AFF6CE7BD6B915153E19962DC3BF7BA188189130C6A21EA50722B30702B0E6EE7EF7C706154A6FDE9ED2E42B818C77616A554F48332D35F23D1D7FE9FA4D0BC0BBFAA949D88727B6518E6/6914"
 	
 	CopyrightMessageDisplay = "true"
 	ContextMenu="true"
@@ -523,6 +523,7 @@
 				ZoomFiles="paginas/zoom/36_Capitulo_02.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/36_Capitulo_02.xml"
 				
 				/>
 	<PageData	PageFile="paginas/37_Capitulo_02.jpg"		
@@ -614,6 +615,7 @@
 				ZoomFiles="paginas/zoom/48_Capitulo_02.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/48_Capitulo_02.xml"
 				
 				/>
 	<PageData	PageFile="paginas/49_Capitulo_02.jpg"		
@@ -621,6 +623,7 @@
 				ZoomFiles="paginas/zoom/49_Capitulo_02.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/49_Capitulo_02.xml"
 				
 				/>
 	<PageData	PageFile="paginas/50_Capitulo_02.jpg"		
@@ -628,6 +631,7 @@
 				ZoomFiles="paginas/zoom/50_Capitulo_02.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/50_Capitulo_02.xml"
 				
 				/>
 	<PageData	PageFile="paginas/51_Capitulo_02.jpg"		
@@ -642,6 +646,7 @@
 				ZoomFiles="paginas/zoom/52_Capitulo_02.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/52_Capitulo_02.xml"
 				
 				/>
 	<PageData	PageFile="paginas/53_Capitulo_02.jpg"		
@@ -656,6 +661,7 @@
 				ZoomFiles="paginas/zoom/54_Capitulo_02.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/54_Capitulo_02.xml"
 				
 				/>
 	<PageData	PageFile="paginas/55_Capitulo_02.jpg"		
@@ -663,6 +669,7 @@
 				ZoomFiles="paginas/zoom/55_Capitulo_02.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/55_Capitulo_02.xml"
 				
 				/>
 	<PageData	PageFile="paginas/56_Capitulo_02.jpg"		
@@ -670,6 +677,7 @@
 				ZoomFiles="paginas/zoom/56_Capitulo_02.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/56_Capitulo_02.xml"
 				
 				/>
 	<PageData	PageFile="paginas/57_Capitulo_02.jpg"		
@@ -677,6 +685,7 @@
 				ZoomFiles="paginas/zoom/57_Capitulo_02.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/57_Capitulo_02.xml"
 				
 				/>
 	<PageData	PageFile="paginas/58_Capitulo_02.jpg"		
@@ -684,6 +693,7 @@
 				ZoomFiles="paginas/zoom/58_Capitulo_02.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/58_Capitulo_02.xml"
 				
 				/>
 	<PageData	PageFile="paginas/59_Capitulo_02.jpg"		
@@ -691,6 +701,7 @@
 				ZoomFiles="paginas/zoom/59_Capitulo_02.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/59_Capitulo_02.xml"
 				
 				/>
 	<PageData	PageFile="paginas/60_Capitulo_02.jpg"		
@@ -726,6 +737,7 @@
 				ZoomFiles="paginas/zoom/64_Capitulo_02.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/64_Capitulo_02.xml"
 				
 				/>
 	<PageData	PageFile="paginas/65_Capitulo_02.jpg"		
@@ -733,6 +745,7 @@
 				ZoomFiles="paginas/zoom/65_Capitulo_02.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/65_Capitulo_02.xml"
 				
 				/>
 	<PageData	PageFile="paginas/66_Capitulo_02.jpg"		
@@ -740,6 +753,7 @@
 				ZoomFiles="paginas/zoom/66_Capitulo_02.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/66_Capitulo_02.xml"
 				
 				/>
 	<PageData	PageFile="paginas/67_Capitulo_02.jpg"		
@@ -747,6 +761,7 @@
 				ZoomFiles="paginas/zoom/67_Capitulo_02.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/67_Capitulo_02.xml"
 				
 				/>
 	<PageData	PageFile="paginas/68_Capitulo_02.jpg"		
@@ -754,6 +769,7 @@
 				ZoomFiles="paginas/zoom/68_Capitulo_02.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/68_Capitulo_02.xml"
 				
 				/>
 	<PageData	PageFile="paginas/69_Capitulo_02.jpg"		
@@ -768,6 +784,7 @@
 				ZoomFiles="paginas/zoom/70_Capitulo_02.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/70_Capitulo_02.xml"
 				
 				/>
 	<PageData	PageFile="paginas/71_Capitulo_02.jpg"		
@@ -847,6 +864,7 @@
 				ZoomFiles="paginas/zoom/80_Capitulo_03.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/80_Capitulo_03.xml"
 				
 				/>
 	<PageData	PageFile="paginas/81_Capitulo_03.jpg"		
@@ -854,6 +872,7 @@
 				ZoomFiles="paginas/zoom/81_Capitulo_03.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/81_Capitulo_03.xml"
 				
 				/>
 
@@ -918,6 +937,7 @@
 				ZoomFiles="paginas/zoom/89_Capitulo_04.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/89_Capitulo_04.xml"
 				
 				/>
 	<PageData	PageFile="paginas/90_Capitulo_04.jpg"		
@@ -925,6 +945,7 @@
 				ZoomFiles="paginas/zoom/90_Capitulo_04.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/90_Capitulo_04.xml"
 				
 				/>
 	<PageData	PageFile="paginas/91_Capitulo_04.jpg"		
@@ -932,6 +953,7 @@
 				ZoomFiles="paginas/zoom/91_Capitulo_04.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/91_Capitulo_04.xml"
 				
 				/>
 	<PageData	PageFile="paginas/92_Capitulo_04.jpg"		
@@ -946,6 +968,7 @@
 				ZoomFiles="paginas/zoom/93_Capitulo_04.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/93_Capitulo_04.xml"
 				
 				/>
 	<PageData	PageFile="paginas/94_Capitulo_04.jpg"		
@@ -953,6 +976,7 @@
 				ZoomFiles="paginas/zoom/94_Capitulo_04.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/94_Capitulo_04.xml"
 				
 				/>
 	<PageData	PageFile="paginas/95_Capitulo_04.jpg"		
@@ -1036,6 +1060,7 @@
 				ZoomFiles="paginas/zoom/105_Capitulo_05.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/105_Capitulo_05.xml"
 				
 				/>
 	<PageData	PageFile="paginas/106_Capitulo_05.jpg"		
@@ -1043,6 +1068,7 @@
 				ZoomFiles="paginas/zoom/106_Capitulo_05.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/106_Capitulo_05.xml"
 				
 				/>
 	<PageData	PageFile="paginas/107_Capitulo_05.jpg"		
@@ -1050,6 +1076,7 @@
 				ZoomFiles="paginas/zoom/107_Capitulo_05.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/107_Capitulo_05.xml"
 				
 				/>
 	<PageData	PageFile="paginas/108_Capitulo_05.jpg"		
@@ -1057,6 +1084,7 @@
 				ZoomFiles="paginas/zoom/108_Capitulo_05.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/108_Capitulo_05.xml"
 				
 				/>
 	<PageData	PageFile="paginas/109_Capitulo_05.jpg"		
@@ -1071,6 +1099,7 @@
 				ZoomFiles="paginas/zoom/110_Capitulo_05.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/110_Capitulo_05.xml"
 				
 				/>
 	<PageData	PageFile="paginas/111_Capitulo_05.jpg"		
@@ -1085,6 +1114,7 @@
 				ZoomFiles="paginas/zoom/112_Capitulo_05.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/112_Capitulo_05.xml"
 				
 				/>
 	<PageData	PageFile="paginas/113_Capitulo_05.jpg"		
@@ -1092,6 +1122,7 @@
 				ZoomFiles="paginas/zoom/113_Capitulo_05.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/113_Capitulo_05.xml"
 				
 				/>
 	<PageData	PageFile="paginas/114_Capitulo_05.jpg"		
@@ -1099,6 +1130,7 @@
 				ZoomFiles="paginas/zoom/114_Capitulo_05.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/114_Capitulo_05.xml"
 				
 				/>
 	<PageData	PageFile="paginas/115_Capitulo_05.jpg"		
@@ -1106,6 +1138,7 @@
 				ZoomFiles="paginas/zoom/115_Capitulo_05.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/115_Capitulo_05.xml"
 				
 				/>
 	<PageData	PageFile="paginas/116_Capitulo_05.jpg"		
@@ -1113,6 +1146,7 @@
 				ZoomFiles="paginas/zoom/116_Capitulo_05.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/116_Capitulo_05.xml"
 				
 				/>
 	<PageData	PageFile="paginas/117_Capitulo_05.jpg"		
@@ -1261,6 +1295,7 @@
 				ZoomFiles="paginas/zoom/135_Capitulo_07.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/135_Capitulo_07.xml"
 				
 				/>
 	<PageData	PageFile="paginas/136_Capitulo_07.jpg"		
@@ -1268,6 +1303,7 @@
 				ZoomFiles="paginas/zoom/136_Capitulo_07.jpg"
 				PageWidth="595"
 				PageHeight="842"
+				HotSpotFile="hotspots/136_Capitulo_07.xml"
 				
 				/>
 	<PageData	PageFile="paginas/137_Capitulo_07.jpg"		
@@ -1330,6 +1366,7 @@
 				PageWidth="595"
 				PageHeight="842"
 				Label="Capitulo08-02"
+				HotSpotFile="hotspots/144_Capitulo_08.xml"
 				
 				/>
 	<PageData	PageFile="paginas/145_Capitulo_08.jpg"		

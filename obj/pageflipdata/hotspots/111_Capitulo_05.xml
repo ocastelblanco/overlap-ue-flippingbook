@@ -1,0 +1,113 @@
+﻿<HotSpotData>
+<!-- Hotspots del Capítulo 05-105 -->
+<HotSpot										
+		PopupTitle="Inmersion en Ingles"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Inmersion en Ingles.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,288,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Licencia Ingles"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Licencia Ingles.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,311,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Ingles Presencial Basico"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Ingles Presencial Basico.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,334,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Ingles Presencial Intermedio"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Ingles Presencial Intermedio.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,357,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Ingles Presencial Avanzado"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Ingles Presencial Avanzado.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,380,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Ingles Virtual"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Ingles Virtual.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,403,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Ingles Presencial"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Ingles Presencial.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,426,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Portugues Basico"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Portugues Basico.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,499,362,23</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Portugues Intermedio"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Portugues Intermedio.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,522,362,23</Rectangle>
+</HotSpot>								
+			
+
+</HotSpotData>

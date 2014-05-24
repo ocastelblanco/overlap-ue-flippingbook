@@ -1,0 +1,124 @@
+﻿<HotSpotData>
+<!-- Hotspots del Capítulo 04-52 -->
+<HotSpot										
+		PopupTitle="Química del Petróleo, Manejo y Procesamiento de Hidrocarburos"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Química del Petróleo, Manejo y Procesamiento de Hidrocarburos.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,267,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Herramientas de Programación Para el Procesamiento de Datos de la Industria Petrolera"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Herramientas de Programación Para el Procesamiento de Datos de la Industria Petrolera.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,286,362,39</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Operaciones Básicas de Procesamiento de Gas"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Operaciones Básicas de Procesamiento de Gas.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,325,362,39</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Sistemas de Levantamiento Artificial"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Sistemas de Levantamiento Artificial.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,364,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Ingeniería de Yacimientos Básica"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Ingeniería de Yacimientos Básica.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,383,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Facilidades de Producción en Superficie"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Facilidades de Producción en Superficie.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,402,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Conceptos Básicos de Medición"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Conceptos Básicos de Medición.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,421,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Balances de Cantidad y Gestión Volumétrica en Ecopetrol Conceptos Fundamentales"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Balances de Cantidad y Gestión Volumétrica en Ecopetrol Conceptos Fundamentales.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,440,362,39</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Medición Estática de Hidrocarburos y Biocombustibles"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Medición Estática de Hidrocarburos y Biocombustibles.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,479,362,19</Rectangle>
+</HotSpot>								
+<HotSpot										
+		PopupTitle="Medición Dinámica de Hidrocarburos Líquidos  Crudos y Refinados"					
+		PopupText=""							
+		PopupImageFile=""							
+		Opacity="0"							
+		HoverOpacity="40"							
+		Link="pageflipdata/fichas/Medición Dinámica de Hidrocarburos Líquidos  Crudos y Refinados.pdf"					
+		Target="_blank"							
+		Skip="true"							
+		Color="0x000000" >							
+	<Rectangle>212,498,362,19</Rectangle>
+</HotSpot>								
+
+</HotSpotData>
